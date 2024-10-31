@@ -14,6 +14,7 @@ public class P06 {
         a=b;
         b=c;
         System.out.println("Number After Swap a="+a+" b="+b);
+        System.out.println();
 
     }
 }

@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="File Added problem solve">
-      <change afterPath="$PROJECT_DIR$/src/P06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="File Added problem solve" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,10 +107,35 @@
       <option name="project" value="LOCAL" />
       <updated>1730302941578</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="File Added problem solve">
+      <option name="closed" value="true" />
+      <created>1730310656031</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730310656031</updated>
+    </task>
+    <task id="LOCAL-00005" summary="File Added problem solve">
+      <option name="closed" value="true" />
+      <created>1730310690679</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730310690679</updated>
+    </task>
+    <task id="LOCAL-00006" summary="File Added problem solve">
+      <option name="closed" value="true" />
+      <created>1730310700910</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730310700910</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="swaping problem solve" />
     <MESSAGE value="File Added problem solve" />
     <option name="LAST_COMMIT_MESSAGE" value="File Added problem solve" />
   </component>
