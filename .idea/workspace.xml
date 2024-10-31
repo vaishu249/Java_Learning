@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="calculate simple interest">
-      <change afterPath="$PROJECT_DIR$/src/P11CompoundInterest.java" afterDir="false" />
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="calculate Compound interest">
+      <change afterPath="$PROJECT_DIR$/src/P12CelciusConversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,20 +54,14 @@
     "Application.P08PerimeterOfRectangle.executor": "Run",
     "Application.P09AreaOfTriangle.executor": "Run",
     "Application.P10SimpleIntrest.executor": "Run",
+    "Application.P12CelciusConversion.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.P10SimpleIntrest">
-    <configuration name="P06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P06" />
-      <module name="Problem Solving" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P12CelciusConversion">
     <configuration name="P07_Arithmatic_Operation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P07_Arithmatic_Operation" />
       <module name="Problem Solving" />
@@ -95,13 +90,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P12CelciusConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P12CelciusConversion" />
+      <module name="Problem Solving" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P12CelciusConversion" />
         <item itemvalue="Application.P10SimpleIntrest" />
         <item itemvalue="Application.P09AreaOfTriangle" />
         <item itemvalue="Application.P08PerimeterOfRectangle" />
         <item itemvalue="Application.P07_Arithmatic_Operation" />
-        <item itemvalue="Application.P06" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +204,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730363430674</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="calculate Compound interest">
+      <option name="closed" value="true" />
+      <created>1730363738151</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1730363738151</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -213,6 +223,7 @@
     <MESSAGE value="Perimeter Calculating" />
     <MESSAGE value="area of triangle calculating" />
     <MESSAGE value="calculate simple interest" />
-    <option name="LAST_COMMIT_MESSAGE" value="calculate simple interest" />
+    <MESSAGE value="calculate Compound interest" />
+    <option name="LAST_COMMIT_MESSAGE" value="calculate Compound interest" />
   </component>
 </project>
