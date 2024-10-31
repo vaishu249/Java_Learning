@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="Perimeter Calculating">
-      <change afterPath="$PROJECT_DIR$/src/P09AreaOfTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="area of triangle calculating">
+      <change afterPath="$PROJECT_DIR$/src/P10SimpleIntrest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,14 +58,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.P09AreaOfTriangle">
-    <configuration name="P05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P05" />
-      <module name="Problem Solving" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P10SimpleIntrest">
     <configuration name="P06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P06" />
       <module name="Problem Solving" />
@@ -95,13 +87,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P10SimpleIntrest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P10SimpleIntrest" />
+      <module name="Problem Solving" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P10SimpleIntrest" />
         <item itemvalue="Application.P09AreaOfTriangle" />
         <item itemvalue="Application.P08PerimeterOfRectangle" />
         <item itemvalue="Application.P07_Arithmatic_Operation" />
         <item itemvalue="Application.P06" />
-        <item itemvalue="Application.P05" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730362311995</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="area of triangle calculating">
+      <option name="closed" value="true" />
+      <created>1730362977642</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1730362977642</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -195,6 +202,7 @@
     <MESSAGE value="swap program" />
     <MESSAGE value="Arithmatic operation" />
     <MESSAGE value="Perimeter Calculating" />
-    <option name="LAST_COMMIT_MESSAGE" value="Perimeter Calculating" />
+    <MESSAGE value="area of triangle calculating" />
+    <option name="LAST_COMMIT_MESSAGE" value="area of triangle calculating" />
   </component>
 </project>
