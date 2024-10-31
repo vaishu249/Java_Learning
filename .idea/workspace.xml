@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="area of triangle calculating">
-      <change afterPath="$PROJECT_DIR$/src/P10SimpleIntrest.java" afterDir="false" />
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="calculate simple interest">
+      <change afterPath="$PROJECT_DIR$/src/P11CompoundInterest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +52,7 @@
     "Application.P07_Arithmatic_Operation.executor": "Run",
     "Application.P08PerimeterOfRectangle.executor": "Run",
     "Application.P09AreaOfTriangle.executor": "Run",
+    "Application.P10SimpleIntrest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -193,7 +194,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730362977642</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="calculate simple interest">
+      <option name="closed" value="true" />
+      <created>1730363430674</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1730363430674</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -203,6 +212,7 @@
     <MESSAGE value="Arithmatic operation" />
     <MESSAGE value="Perimeter Calculating" />
     <MESSAGE value="area of triangle calculating" />
-    <option name="LAST_COMMIT_MESSAGE" value="area of triangle calculating" />
+    <MESSAGE value="calculate simple interest" />
+    <option name="LAST_COMMIT_MESSAGE" value="calculate simple interest" />
   </component>
 </project>
