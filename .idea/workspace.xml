@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="fahrenheit to celsius conversion">
-      <change afterPath="$PROJECT_DIR$/src/P13NumberPositiveOrNegative.java" afterDir="false" />
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="Program for checking no even or odd">
+      <change afterPath="$PROJECT_DIR$/src/P15GreatestAmongThreeNo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,20 +56,15 @@
     "Application.P10SimpleIntrest.executor": "Run",
     "Application.P12CelciusConversion.executor": "Run",
     "Application.P13NumberPositiveOrNegative.executor": "Run",
+    "Application.P14NumberEvenOrOdd.executor": "Run",
+    "Application.P15GreatestAmongThreeNo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.P14NumberEvenOrOdd">
-    <configuration name="P09AreaOfTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P09AreaOfTriangle" />
-      <module name="Problem Solving" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P15GreatestAmongThreeNo">
     <configuration name="P10SimpleIntrest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P10SimpleIntrest" />
       <module name="Problem Solving" />
@@ -98,13 +93,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P15GreatestAmongThreeNo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P15GreatestAmongThreeNo" />
+      <module name="Problem Solving" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P15GreatestAmongThreeNo" />
         <item itemvalue="Application.P14NumberEvenOrOdd" />
         <item itemvalue="Application.P13NumberPositiveOrNegative" />
         <item itemvalue="Application.P12CelciusConversion" />
         <item itemvalue="Application.P10SimpleIntrest" />
-        <item itemvalue="Application.P09AreaOfTriangle" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +223,23 @@
       <option name="project" value="LOCAL" />
       <updated>1730364413021</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Program for checking no positive or negative">
+      <option name="closed" value="true" />
+      <created>1730450584692</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1730450584692</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Program for checking no even or odd">
+      <option name="closed" value="true" />
+      <created>1730450821196</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1730450821196</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -234,6 +252,8 @@
     <MESSAGE value="calculate simple interest" />
     <MESSAGE value="calculate Compound interest" />
     <MESSAGE value="fahrenheit to celsius conversion" />
-    <option name="LAST_COMMIT_MESSAGE" value="fahrenheit to celsius conversion" />
+    <MESSAGE value="Program for checking no positive or negative" />
+    <MESSAGE value="Program for checking no even or odd" />
+    <option name="LAST_COMMIT_MESSAGE" value="Program for checking no even or odd" />
   </component>
 </project>
