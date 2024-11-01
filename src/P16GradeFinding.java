@@ -5,7 +5,7 @@ public class P16GradeFinding {
         System.out.println("Program For Grade for your enter marks ...");
         Scanner input=new Scanner(System.in);
         System.out.print("Enter Your Marks : ");
-        int marks=input.nextInt();
+        float marks=input.nextFloat();
         if(marks>=90){
             System.out.println("A grade");
         }
