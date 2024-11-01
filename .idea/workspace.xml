@@ -62,14 +62,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.P13NumberPositiveOrNegative">
-    <configuration name="P08PerimeterOfRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P08PerimeterOfRectangle" />
-      <module name="Problem Solving" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P14NumberEvenOrOdd">
     <configuration name="P09AreaOfTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P09AreaOfTriangle" />
       <module name="Problem Solving" />
@@ -98,13 +91,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P14NumberEvenOrOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P14NumberEvenOrOdd" />
+      <module name="Problem Solving" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P14NumberEvenOrOdd" />
         <item itemvalue="Application.P13NumberPositiveOrNegative" />
         <item itemvalue="Application.P12CelciusConversion" />
         <item itemvalue="Application.P10SimpleIntrest" />
         <item itemvalue="Application.P09AreaOfTriangle" />
-        <item itemvalue="Application.P08PerimeterOfRectangle" />
       </list>
     </recent_temporary>
   </component>
