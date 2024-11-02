@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="Finding Grade">
-      <change afterPath="$PROJECT_DIR$/src/P17PersonAgeCategory.java" afterDir="false" />
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="Categories Person in Different age group">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +61,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RunManager" selected="Application.P16GradeFinding">
@@ -264,7 +264,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730475463654</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Categories Person in Different age group">
+      <option name="closed" value="true" />
+      <created>1730476008366</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1730476008366</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -281,6 +289,7 @@
     <MESSAGE value="Program for checking no even or odd" />
     <MESSAGE value="Greatest no among 3 no" />
     <MESSAGE value="Finding Grade" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finding Grade" />
+    <MESSAGE value="Categories Person in Different age group" />
+    <option name="LAST_COMMIT_MESSAGE" value="Categories Person in Different age group" />
   </component>
 </project>
