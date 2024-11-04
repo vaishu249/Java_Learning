@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="Categories Person in Different age group">
+      <change afterPath="$PROJECT_DIR$/src/P18TablePrintUsingLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +59,7 @@
     "Application.P14NumberEvenOrOdd.executor": "Run",
     "Application.P15GreatestAmongThreeNo.executor": "Run",
     "Application.P16GradeFinding.executor": "Run",
+    "Application.P18TablePrintUsingLoop.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -65,14 +67,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.P16GradeFinding">
-    <configuration name="P12CelciusConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P12CelciusConversion" />
-      <module name="Problem Solving" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P18TablePrintUsingLoop">
     <configuration name="P13NumberPositiveOrNegative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P13NumberPositiveOrNegative" />
       <module name="Problem Solving" />
@@ -101,13 +96,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P18TablePrintUsingLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P18TablePrintUsingLoop" />
+      <module name="Problem Solving" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P18TablePrintUsingLoop" />
         <item itemvalue="Application.P16GradeFinding" />
         <item itemvalue="Application.P15GreatestAmongThreeNo" />
         <item itemvalue="Application.P14NumberEvenOrOdd" />
         <item itemvalue="Application.P13NumberPositiveOrNegative" />
-        <item itemvalue="Application.P12CelciusConversion" />
       </list>
     </recent_temporary>
   </component>
