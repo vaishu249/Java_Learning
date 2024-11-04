@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="print sum of odd numbers">
-      <change afterPath="$PROJECT_DIR$/src/P20Factorial.java" afterDir="false" />
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="print factorial">
+      <change afterPath="$PROJECT_DIR$/src/P21SumOfDigit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +62,7 @@
     "Application.P18TablePrintUsingLoop.executor": "Run",
     "Application.P19SumOfOddNumber.executor": "Run",
     "Application.P20Factorial.executor": "Run",
+    "Application.P21SumOfDigit.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -69,14 +70,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.P20Factorial">
-    <configuration name="P15GreatestAmongThreeNo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P15GreatestAmongThreeNo" />
-      <module name="Problem Solving" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P21SumOfDigit">
     <configuration name="P16GradeFinding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P16GradeFinding" />
       <module name="Problem Solving" />
@@ -105,13 +99,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P21SumOfDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P21SumOfDigit" />
+      <module name="Problem Solving" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P21SumOfDigit" />
         <item itemvalue="Application.P20Factorial" />
         <item itemvalue="Application.P19SumOfOddNumber" />
         <item itemvalue="Application.P18TablePrintUsingLoop" />
         <item itemvalue="Application.P16GradeFinding" />
-        <item itemvalue="Application.P15GreatestAmongThreeNo" />
       </list>
     </recent_temporary>
   </component>
@@ -324,7 +325,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730736527482</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="print factorial">
+      <option name="closed" value="true" />
+      <created>1730736949896</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1730736949896</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -344,6 +353,7 @@
     <MESSAGE value="Categories Person in Different age group" />
     <MESSAGE value="table printing using loop" />
     <MESSAGE value="print sum of odd numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="print sum of odd numbers" />
+    <MESSAGE value="print factorial" />
+    <option name="LAST_COMMIT_MESSAGE" value="print factorial" />
   </component>
 </project>
