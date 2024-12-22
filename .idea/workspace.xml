@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="reverse printing number">
-      <change afterPath="$PROJECT_DIR$/src/P23FibonacciSeries.java" afterDir="false" />
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="Fibonacci series">
+      <change afterPath="$PROJECT_DIR$/src/P24ArraySearchAnElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +65,7 @@
     "Application.P21SumOfDigit.executor": "Run",
     "Application.P22ReverseNumber.executor": "Run",
     "Application.P23FibonacciSeries.executor": "Run",
+    "Application.P24ArraySearchAnElement.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -72,14 +73,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.P23FibonacciSeries">
-    <configuration name="P19SumOfOddNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P19SumOfOddNumber" />
-      <module name="Problem Solving" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P24ArraySearchAnElement">
     <configuration name="P20Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P20Factorial" />
       <module name="Problem Solving" />
@@ -108,13 +102,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P24ArraySearchAnElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P24ArraySearchAnElement" />
+      <module name="Problem Solving" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P24ArraySearchAnElement" />
         <item itemvalue="Application.P23FibonacciSeries" />
         <item itemvalue="Application.P22ReverseNumber" />
         <item itemvalue="Application.P21SumOfDigit" />
         <item itemvalue="Application.P20Factorial" />
-        <item itemvalue="Application.P19SumOfOddNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -351,7 +352,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730739071196</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Fibonacci series">
+      <option name="closed" value="true" />
+      <created>1732457458577</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1732457458577</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -374,6 +383,7 @@
     <MESSAGE value="print factorial" />
     <MESSAGE value="sum of digit" />
     <MESSAGE value="reverse printing number" />
-    <option name="LAST_COMMIT_MESSAGE" value="reverse printing number" />
+    <MESSAGE value="Fibonacci series" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fibonacci series" />
   </component>
 </project>
