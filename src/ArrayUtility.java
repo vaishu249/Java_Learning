@@ -8,7 +8,7 @@ public class ArrayUtility {
         int[] arr = new int[size];
         int i = 0;
         while (i < arr.length) {
-            System.out.print("Enter a element " + i + " ");
+            System.out.print("Enter a element " + (i+1) + " ");
             arr[i] = input.nextInt();
             i++;
         }
