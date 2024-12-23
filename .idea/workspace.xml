@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="array element finding">
-      <change afterPath="$PROJECT_DIR$/src/P25SumOfAverageOfArray.java" afterDir="false" />
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="create utility scanner for reuse the same code">
+      <change afterPath="$PROJECT_DIR$/src/P26NoOfOcurance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P24ArraySearchAnElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P24ArraySearchAnElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayUtility.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +68,7 @@
     "Application.P23FibonacciSeries.executor": "Run",
     "Application.P24ArraySearchAnElement.executor": "Run",
     "Application.P25SumOfAverageOfArray.executor": "Run",
+    "Application.P26NoOfOcurance.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -75,14 +76,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.P25SumOfAverageOfArray">
-    <configuration name="P21SumOfDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P21SumOfDigit" />
-      <module name="Problem Solving" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P26NoOfOcurance">
     <configuration name="P22ReverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P22ReverseNumber" />
       <module name="Problem Solving" />
@@ -111,13 +105,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P26NoOfOcurance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P26NoOfOcurance" />
+      <module name="Problem Solving" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P26NoOfOcurance" />
         <item itemvalue="Application.P25SumOfAverageOfArray" />
         <item itemvalue="Application.P24ArraySearchAnElement" />
         <item itemvalue="Application.P23FibonacciSeries" />
         <item itemvalue="Application.P22ReverseNumber" />
-        <item itemvalue="Application.P21SumOfDigit" />
       </list>
     </recent_temporary>
   </component>
@@ -378,7 +379,23 @@
       <option name="project" value="LOCAL" />
       <updated>1734890263578</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="average and sum of array">
+      <option name="closed" value="true" />
+      <created>1734972478946</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1734972478946</updated>
+    </task>
+    <task id="LOCAL-00033" summary="create utility scanner for reuse the same code">
+      <option name="closed" value="true" />
+      <created>1734972711885</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1734972711885</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -403,19 +420,26 @@
     <MESSAGE value="reverse printing number" />
     <MESSAGE value="Fibonacci series" />
     <MESSAGE value="array element finding" />
-    <option name="LAST_COMMIT_MESSAGE" value="array element finding" />
+    <MESSAGE value="average and sum of array" />
+    <MESSAGE value="create utility scanner for reuse the same code" />
+    <option name="LAST_COMMIT_MESSAGE" value="create utility scanner for reuse the same code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/P25SumOfAverageOfArray.java</url>
-          <line>19</line>
+          <line>20</line>
           <properties class="P25SumOfAverageOfArray" method="printingArrayElement">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/P26NoOfOcurance.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
