@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="Fibonacci series">
-      <change afterPath="$PROJECT_DIR$/src/P24ArraySearchAnElement.java" afterDir="false" />
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="array element finding">
+      <change afterPath="$PROJECT_DIR$/src/P25SumOfAverageOfArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P24ArraySearchAnElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P24ArraySearchAnElement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +67,7 @@
     "Application.P22ReverseNumber.executor": "Run",
     "Application.P23FibonacciSeries.executor": "Run",
     "Application.P24ArraySearchAnElement.executor": "Run",
+    "Application.P25SumOfAverageOfArray.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -73,14 +75,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.P24ArraySearchAnElement">
-    <configuration name="P20Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P20Factorial" />
-      <module name="Problem Solving" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P25SumOfAverageOfArray">
     <configuration name="P21SumOfDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P21SumOfDigit" />
       <module name="Problem Solving" />
@@ -109,13 +104,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P25SumOfAverageOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P25SumOfAverageOfArray" />
+      <module name="Problem Solving" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P25SumOfAverageOfArray" />
         <item itemvalue="Application.P24ArraySearchAnElement" />
         <item itemvalue="Application.P23FibonacciSeries" />
         <item itemvalue="Application.P22ReverseNumber" />
         <item itemvalue="Application.P21SumOfDigit" />
-        <item itemvalue="Application.P20Factorial" />
       </list>
     </recent_temporary>
   </component>
@@ -360,7 +362,23 @@
       <option name="project" value="LOCAL" />
       <updated>1732457458577</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="array element finding">
+      <option name="closed" value="true" />
+      <created>1734890247904</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1734890247904</updated>
+    </task>
+    <task id="LOCAL-00031" summary="array element finding">
+      <option name="closed" value="true" />
+      <created>1734890263578</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1734890263578</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -384,6 +402,22 @@
     <MESSAGE value="sum of digit" />
     <MESSAGE value="reverse printing number" />
     <MESSAGE value="Fibonacci series" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fibonacci series" />
+    <MESSAGE value="array element finding" />
+    <option name="LAST_COMMIT_MESSAGE" value="array element finding" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/P25SumOfAverageOfArray.java</url>
+          <line>19</line>
+          <properties class="P25SumOfAverageOfArray" method="printingArrayElement">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

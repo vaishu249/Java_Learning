@@ -6,7 +6,7 @@ public class P24ArraySearchAnElement {
         int[] arr={1,2,3,4,5,6,7,8};
         int n=input.nextInt();
         if(num(arr,n)){
-            System.out.println("found");
+            System.out.println("Number is found ");
         }
         else{
             System.out.println("Number is not found");
