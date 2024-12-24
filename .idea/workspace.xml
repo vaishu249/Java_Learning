@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="count the no in array occurance">
-      <change afterPath="$PROJECT_DIR$/src/P27MaximumMinimunNoOfArray.java" afterDir="false" />
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="printing minimum and maximum no in array">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -402,7 +402,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734974051854</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="printing minimum and maximum no in array">
+      <option name="closed" value="true" />
+      <created>1734974632890</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1734974632890</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -430,7 +438,8 @@
     <MESSAGE value="average and sum of array" />
     <MESSAGE value="create utility scanner for reuse the same code" />
     <MESSAGE value="count the no in array occurance" />
-    <option name="LAST_COMMIT_MESSAGE" value="count the no in array occurance" />
+    <MESSAGE value="printing minimum and maximum no in array" />
+    <option name="LAST_COMMIT_MESSAGE" value="printing minimum and maximum no in array" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
