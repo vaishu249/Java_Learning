@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="class obj practice">
-      <change afterPath="$PROJECT_DIR$/src/Learning/constructor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="constructor">
+      <change afterPath="$PROJECT_DIR$/src/P28ArraySortedOrNot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,6 +69,7 @@
     "Application.P25SumOfAverageOfArray.executor": "Run",
     "Application.P26NoOfOcurance.executor": "Run",
     "Application.P27MaximumMinimunNoOfArray.executor": "Run",
+    "Application.P28ArraySortedOrNot.executor": "Run",
     "Application.constructor.executor": "Run",
     "Application.rectangle.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -79,14 +79,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.constructor">
-    <configuration name="P25SumOfAverageOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P25SumOfAverageOfArray" />
-      <module name="Problem Solving" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P28ArraySortedOrNot">
     <configuration name="P26NoOfOcurance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P26NoOfOcurance" />
       <module name="Problem Solving" />
@@ -96,6 +89,13 @@
     </configuration>
     <configuration name="P27MaximumMinimunNoOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P27MaximumMinimunNoOfArray" />
+      <module name="Problem Solving" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P28ArraySortedOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P28ArraySortedOrNot" />
       <module name="Problem Solving" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P28ArraySortedOrNot" />
         <item itemvalue="Application.constructor" />
         <item itemvalue="Application.rectangle" />
         <item itemvalue="Application.P27MaximumMinimunNoOfArray" />
         <item itemvalue="Application.P26NoOfOcurance" />
-        <item itemvalue="Application.P25SumOfAverageOfArray" />
       </list>
     </recent_temporary>
   </component>
@@ -458,11 +458,18 @@
       <option name="project" value="LOCAL" />
       <updated>1735030619548</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="constructor">
+      <option name="closed" value="true" />
+      <created>1735370585345</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1735370585345</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Arithmatic operation" />
     <MESSAGE value="Perimeter Calculating" />
     <MESSAGE value="area of triangle calculating" />
     <MESSAGE value="calculate simple interest" />
@@ -487,7 +494,8 @@
     <MESSAGE value="one folder" />
     <MESSAGE value="created the new package" />
     <MESSAGE value="class obj practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="class obj practice" />
+    <MESSAGE value="constructor" />
+    <option name="LAST_COMMIT_MESSAGE" value="constructor" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
