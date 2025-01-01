@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="math function">
-      <change beforePath="$PROJECT_DIR$/src/Learning/mathClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learning/mathClasses.java" afterDir="false" />
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="random function">
+      <change afterPath="$PROJECT_DIR$/src/Learning/toStringMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +74,7 @@
     "Application.constructor.executor": "Run",
     "Application.mathClasses.executor": "Run",
     "Application.rectangle.executor": "Run",
+    "Application.toStringMethod.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -80,7 +82,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.mathClasses">
+  <component name="RunManager" selected="Application.toStringMethod">
     <configuration name="P28ArraySortedOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P28ArraySortedOrNot" />
       <module name="Problem Solving" />
@@ -121,8 +123,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Learning.rectangle" />
+    <configuration name="toStringMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Learning.toStringMethod" />
       <module name="Problem Solving" />
       <extension name="coverage">
         <pattern>
@@ -136,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.toStringMethod" />
         <item itemvalue="Application.mathClasses" />
         <item itemvalue="Application.P30LibrarySystem" />
         <item itemvalue="Application.P28ArraySortedOrNot" />
         <item itemvalue="Application.constructor" />
-        <item itemvalue="Application.rectangle" />
       </list>
     </recent_temporary>
   </component>
@@ -505,11 +507,18 @@
       <option name="project" value="LOCAL" />
       <updated>1735739371847</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="random function">
+      <option name="closed" value="true" />
+      <created>1735740058886</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1735740058886</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fahrenheit to celsius conversion" />
     <MESSAGE value="Program for checking no positive or negative" />
     <MESSAGE value="Program for checking no even or odd" />
     <MESSAGE value="Greatest no among 3 no" />
@@ -534,7 +543,8 @@
     <MESSAGE value="element delete in array" />
     <MESSAGE value="libray management book borrow and return method with constructors" />
     <MESSAGE value="math function" />
-    <option name="LAST_COMMIT_MESSAGE" value="math function" />
+    <MESSAGE value="random function" />
+    <option name="LAST_COMMIT_MESSAGE" value="random function" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -547,6 +557,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Learning/toStringMethod.java</url>
+          <line>13</line>
+          <properties class="Learning.toStringMethod" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/P26NoOfOcurance.java</url>
