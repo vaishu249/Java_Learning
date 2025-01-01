@@ -8,5 +8,9 @@ public class mathClasses {
         System.out.println(Math.pow(2,3));
         System.out.println(Math.sqrt(25));
         System.out.println(Math.round(13.6));
+        for (int i = 0; i < 10; i++) {
+            double no=Math.random()*6;
+            System.out.println(Math.round(no));
+        }
     }
 }
