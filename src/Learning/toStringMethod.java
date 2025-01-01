@@ -19,5 +19,6 @@ public class toStringMethod {
     public static void main(String[] args) {
         toStringMethod hotel=new toStringMethod(1,"Kanha","Katraj");
         System.out.println(hotel.toString());
+        System.out.println(hotel); // by default take to string method
     }
 }
