@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="random function">
-      <change afterPath="$PROJECT_DIR$/src/Learning/toStringMethod.java" afterDir="false" />
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="toString method">
+      <change afterPath="$PROJECT_DIR$/src/Learning/AvoidConcatination.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +48,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AvoidConcatination.executor": "Run",
     "Application.P05.executor": "Run",
     "Application.P06.executor": "Run",
     "Application.P07_Arithmatic_Operation.executor": "Run",
@@ -82,7 +83,20 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.toStringMethod">
+  <component name="RunManager" selected="Application.AvoidConcatination">
+    <configuration name="AvoidConcatination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Learning.AvoidConcatination" />
+      <module name="Problem Solving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Learning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="P28ArraySortedOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P28ArraySortedOrNot" />
       <module name="Problem Solving" />
@@ -93,19 +107,6 @@
     <configuration name="P30LibrarySystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P30LibrarySystem" />
       <module name="Problem Solving" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="constructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Learning.constructor" />
-      <module name="Problem Solving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Learning.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -138,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AvoidConcatination" />
         <item itemvalue="Application.toStringMethod" />
         <item itemvalue="Application.mathClasses" />
         <item itemvalue="Application.P30LibrarySystem" />
         <item itemvalue="Application.P28ArraySortedOrNot" />
-        <item itemvalue="Application.constructor" />
       </list>
     </recent_temporary>
   </component>
@@ -515,11 +516,26 @@
       <option name="project" value="LOCAL" />
       <updated>1735740058886</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="toString method">
+      <option name="closed" value="true" />
+      <created>1735741353076</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1735741353076</updated>
+    </task>
+    <task id="LOCAL-00047" summary="toString method">
+      <option name="closed" value="true" />
+      <created>1735741425378</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1735741425378</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Program for checking no positive or negative" />
     <MESSAGE value="Program for checking no even or odd" />
     <MESSAGE value="Greatest no among 3 no" />
     <MESSAGE value="Finding Grade" />
@@ -544,7 +560,8 @@
     <MESSAGE value="libray management book borrow and return method with constructors" />
     <MESSAGE value="math function" />
     <MESSAGE value="random function" />
-    <option name="LAST_COMMIT_MESSAGE" value="random function" />
+    <MESSAGE value="toString method" />
+    <option name="LAST_COMMIT_MESSAGE" value="toString method" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -557,15 +574,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Learning/toStringMethod.java</url>
-          <line>13</line>
-          <properties class="Learning.toStringMethod" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/P26NoOfOcurance.java</url>
