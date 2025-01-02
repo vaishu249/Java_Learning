@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="to avoid concatination of string">
-      <change afterPath="$PROJECT_DIR$/src/Learning/StringBufferUse.java" afterDir="false" />
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <change afterPath="$PROJECT_DIR$/src/Learning/NestedClass/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning/NestedClass/TestDogNestedClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +22,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -71,6 +74,7 @@
     "Application.P27MaximumMinimunNoOfArray.executor": "Run",
     "Application.P28ArraySortedOrNot.executor": "Run",
     "Application.P30LibrarySystem.executor": "Run",
+    "Application.TestDogNestedClass.executor": "Run",
     "Application.constructor.executor": "Run",
     "Application.mathClasses.executor": "Run",
     "Application.rectangle.executor": "Run",
@@ -82,7 +86,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StringBufferUse">
+  <component name="RunManager" selected="Application.TestDogNestedClass">
     <configuration name="AvoidConcatination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Learning.AvoidConcatination" />
       <module name="Problem Solving" />
@@ -96,19 +100,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P30LibrarySystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P30LibrarySystem" />
-      <module name="Problem Solving" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StringBufferUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Learning.StringBufferUse" />
       <module name="Problem Solving" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Learning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDogNestedClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Learning.NestedClass.TestDogNestedClass" />
+      <module name="Problem Solving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Learning.NestedClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestDogNestedClass" />
         <item itemvalue="Application.StringBufferUse" />
         <item itemvalue="Application.AvoidConcatination" />
         <item itemvalue="Application.toStringMethod" />
         <item itemvalue="Application.mathClasses" />
-        <item itemvalue="Application.P30LibrarySystem" />
       </list>
     </recent_temporary>
   </component>
@@ -160,14 +170,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00001" summary="File Added problem solve">
-      <option name="closed" value="true" />
-      <created>1730302795363</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1730302795363</updated>
     </task>
     <task id="LOCAL-00002" summary="File Added problem solve">
       <option name="closed" value="true" />
@@ -545,12 +547,37 @@
       <option name="project" value="LOCAL" />
       <updated>1735799993642</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1735827505593</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1735827505593</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1735827538600</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1735827538600</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Greatest no among 3 no" />
-    <MESSAGE value="Finding Grade" />
     <MESSAGE value="Categories Person in Different age group" />
     <MESSAGE value="table printing using loop" />
     <MESSAGE value="print sum of odd numbers" />
@@ -574,7 +601,9 @@
     <MESSAGE value="random function" />
     <MESSAGE value="toString method" />
     <MESSAGE value="to avoid concatination of string" />
-    <option name="LAST_COMMIT_MESSAGE" value="to avoid concatination of string" />
+    <MESSAGE value="inheritance program" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
