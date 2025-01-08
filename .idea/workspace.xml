@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/Learning/NestedClass/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learning/NestedClass/TestDogNestedClass.java" afterDir="false" />
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="Nested class code">
+      <change afterPath="$PROJECT_DIR$/src/P31SearchEleIn2DArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,6 +73,7 @@
     "Application.P27MaximumMinimunNoOfArray.executor": "Run",
     "Application.P28ArraySortedOrNot.executor": "Run",
     "Application.P30LibrarySystem.executor": "Run",
+    "Application.P31SearchEleIn2DArray.executor": "Run",
     "Application.TestDogNestedClass.executor": "Run",
     "Application.constructor.executor": "Run",
     "Application.mathClasses.executor": "Run",
@@ -86,7 +86,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TestDogNestedClass">
+  <component name="RunManager" selected="Application.P31SearchEleIn2DArray">
     <configuration name="AvoidConcatination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Learning.AvoidConcatination" />
       <module name="Problem Solving" />
@@ -96,6 +96,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P31SearchEleIn2DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P31SearchEleIn2DArray" />
+      <module name="Problem Solving" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -126,19 +133,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mathClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Learning.mathClasses" />
-      <module name="Problem Solving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Learning.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="toStringMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Learning.toStringMethod" />
       <module name="Problem Solving" />
@@ -154,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P31SearchEleIn2DArray" />
         <item itemvalue="Application.TestDogNestedClass" />
         <item itemvalue="Application.StringBufferUse" />
         <item itemvalue="Application.AvoidConcatination" />
         <item itemvalue="Application.toStringMethod" />
-        <item itemvalue="Application.mathClasses" />
       </list>
     </recent_temporary>
   </component>
@@ -170,14 +164,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00002" summary="File Added problem solve">
-      <option name="closed" value="true" />
-      <created>1730302919454</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1730302919454</updated>
     </task>
     <task id="LOCAL-00003" summary="File Added problem solve">
       <option name="closed" value="true" />
@@ -563,7 +549,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735827538600</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Nested class code">
+      <option name="closed" value="true" />
+      <created>1735830090551</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1735830090551</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -578,7 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Categories Person in Different age group" />
     <MESSAGE value="table printing using loop" />
     <MESSAGE value="print sum of odd numbers" />
     <MESSAGE value="print factorial" />
@@ -603,7 +596,8 @@
     <MESSAGE value="to avoid concatination of string" />
     <MESSAGE value="inheritance program" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="Nested class code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nested class code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
