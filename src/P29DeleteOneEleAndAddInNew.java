@@ -10,8 +10,10 @@ public class P29DeleteOneEleAndAddInNew {
     public static void addEleInArray(int[] arr,int[] newArr) {
         Scanner input= new Scanner(System.in) ;
         int ele= input.nextInt();
-        int i=0;
-        while(i<arr.length){
+        for(int i=0;i<arr.length;i++){
+            if(ele==arr[i]){
+                continue;
+            }
 
         }
     }
