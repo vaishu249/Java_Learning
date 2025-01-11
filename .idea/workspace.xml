@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="palindrome array or not">
-      <change afterPath="$PROJECT_DIR$/src/P35ReverseArray.java" afterDir="false" />
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="reverse array">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P33MergeTwoSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P33MergeTwoSortedArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +90,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.P35ReverseArray">
+  <component name="RunManager" selected="Application.P33MergeTwoSortedArray">
     <configuration name="P31SearchEleIn2DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P31SearchEleIn2DArray" />
       <module name="Problem Solving" />
@@ -128,9 +128,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P33MergeTwoSortedArray" />
         <item itemvalue="Application.P35ReverseArray" />
         <item itemvalue="Application.P34PlindromeArrayOrNot" />
-        <item itemvalue="Application.P33MergeTwoSortedArray" />
         <item itemvalue="Application.P32SumAndAverageOf2DArray" />
         <item itemvalue="Application.P31SearchEleIn2DArray" />
       </list>
@@ -144,14 +144,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00007" summary="swap program">
-      <option name="closed" value="true" />
-      <created>1730359387582</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1730359387582</updated>
     </task>
     <task id="LOCAL-00008" summary="Arithmatic operation">
       <option name="closed" value="true" />
@@ -537,7 +529,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736604118294</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="reverse array">
+      <option name="closed" value="true" />
+      <created>1736616100922</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1736616100922</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -552,7 +552,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="reverse printing number" />
     <MESSAGE value="Fibonacci series" />
     <MESSAGE value="array element finding" />
     <MESSAGE value="average and sum of array" />
@@ -577,7 +576,8 @@
     <MESSAGE value="Sum and Average of 2d array" />
     <MESSAGE value="changes" />
     <MESSAGE value="palindrome array or not" />
-    <option name="LAST_COMMIT_MESSAGE" value="palindrome array or not" />
+    <MESSAGE value="reverse array" />
+    <option name="LAST_COMMIT_MESSAGE" value="reverse array" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

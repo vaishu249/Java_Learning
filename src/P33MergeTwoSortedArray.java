@@ -26,12 +26,22 @@ public class P33MergeTwoSortedArray {
         }
         return arr;
     }
+    public void merge(int[] arr,int[] arr2,int[] result){
+        for(int i=0;i<arr.length;i++){
+            result[i]=arr[i];
+        }
+        for(int i= arr2.length;i<result.length;i++){
+            result[i]=arr2[i];
+        }
+    }
     public static void main(String[] args) {
         P33MergeTwoSortedArray obj=new P33MergeTwoSortedArray();
         int[] arr=obj.inputFromUser();
         int[] arr2=obj.inputFromUser();
         int[] result=new int[arr.length+arr2.length];
-        System.out.println(obj.sorted(arr2));
+        obj.sorted(arr2);
+        obj.sorted(arr);
+        obj.merge(arr,arr2,result);
 
     }
 
