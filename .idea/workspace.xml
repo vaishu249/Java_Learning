@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="Element present or not in 2d array">
-      <change afterPath="$PROJECT_DIR$/src/P32SumAndAverageOf2DArray.java" afterDir="false" />
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="changes">
+      <change afterPath="$PROJECT_DIR$/src/P33MergeTwoSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P34PlindromeArrayOrNot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,60 +48,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AvoidConcatination.executor": "Run",
-    "Application.P05.executor": "Run",
-    "Application.P06.executor": "Run",
-    "Application.P07_Arithmatic_Operation.executor": "Run",
-    "Application.P08PerimeterOfRectangle.executor": "Run",
-    "Application.P09AreaOfTriangle.executor": "Run",
-    "Application.P10SimpleIntrest.executor": "Run",
-    "Application.P12CelciusConversion.executor": "Run",
-    "Application.P13NumberPositiveOrNegative.executor": "Run",
-    "Application.P14NumberEvenOrOdd.executor": "Run",
-    "Application.P15GreatestAmongThreeNo.executor": "Run",
-    "Application.P16GradeFinding.executor": "Run",
-    "Application.P18TablePrintUsingLoop.executor": "Run",
-    "Application.P19SumOfOddNumber.executor": "Run",
-    "Application.P20Factorial.executor": "Run",
-    "Application.P21SumOfDigit.executor": "Run",
-    "Application.P22ReverseNumber.executor": "Run",
-    "Application.P23FibonacciSeries.executor": "Run",
-    "Application.P24ArraySearchAnElement.executor": "Run",
-    "Application.P25SumOfAverageOfArray.executor": "Run",
-    "Application.P26NoOfOcurance.executor": "Run",
-    "Application.P27MaximumMinimunNoOfArray.executor": "Run",
-    "Application.P28ArraySortedOrNot.executor": "Run",
-    "Application.P30LibrarySystem.executor": "Run",
-    "Application.P31SearchEleIn2DArray.executor": "Run",
-    "Application.P32SumAndAverageOf2DArray.executor": "Run",
-    "Application.TestDogNestedClass.executor": "Run",
-    "Application.constructor.executor": "Run",
-    "Application.mathClasses.executor": "Run",
-    "Application.rectangle.executor": "Run",
-    "Application.toStringMethod.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AvoidConcatination.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P06.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P07_Arithmatic_Operation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P08PerimeterOfRectangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P09AreaOfTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P10SimpleIntrest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P12CelciusConversion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P13NumberPositiveOrNegative.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P14NumberEvenOrOdd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P15GreatestAmongThreeNo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P16GradeFinding.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P18TablePrintUsingLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P19SumOfOddNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P20Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P21SumOfDigit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P22ReverseNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P23FibonacciSeries.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P24ArraySearchAnElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P25SumOfAverageOfArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P26NoOfOcurance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P27MaximumMinimunNoOfArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P28ArraySortedOrNot.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P30LibrarySystem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P31SearchEleIn2DArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P32SumAndAverageOf2DArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P33MergeTwoSortedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestDogNestedClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.constructor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.mathClasses.executor&quot;: &quot;Run&quot;,
+    &quot;Application.rectangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.toStringMethod.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.P32SumAndAverageOf2DArray">
-    <configuration name="AvoidConcatination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Learning.AvoidConcatination" />
-      <module name="Problem Solving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Learning.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="Application.P34PlindromeArrayOrNot">
     <configuration name="P31SearchEleIn2DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P31SearchEleIn2DArray" />
       <module name="Problem Solving" />
@@ -115,15 +104,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBufferUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Learning.StringBufferUse" />
+    <configuration name="P33MergeTwoSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P33MergeTwoSortedArray" />
       <module name="Problem Solving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Learning.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P34PlindromeArrayOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P34PlindromeArrayOrNot" />
+      <module name="Problem Solving" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -143,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P34PlindromeArrayOrNot" />
+        <item itemvalue="Application.P33MergeTwoSortedArray" />
         <item itemvalue="Application.P32SumAndAverageOf2DArray" />
         <item itemvalue="Application.P31SearchEleIn2DArray" />
         <item itemvalue="Application.TestDogNestedClass" />
-        <item itemvalue="Application.StringBufferUse" />
-        <item itemvalue="Application.AvoidConcatination" />
       </list>
     </recent_temporary>
   </component>
@@ -159,22 +149,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00004" summary="File Added problem solve">
-      <option name="closed" value="true" />
-      <created>1730310656031</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1730310656031</updated>
-    </task>
-    <task id="LOCAL-00005" summary="File Added problem solve">
-      <option name="closed" value="true" />
-      <created>1730310690679</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1730310690679</updated>
     </task>
     <task id="LOCAL-00006" summary="File Added problem solve">
       <option name="closed" value="true" />
@@ -552,7 +526,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736343878948</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Sum and Average of 2d array">
+      <option name="closed" value="true" />
+      <created>1736345764157</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1736345764157</updated>
+    </task>
+    <task id="LOCAL-00054" summary="changes">
+      <option name="closed" value="true" />
+      <created>1736346418379</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1736346418379</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -567,8 +557,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="print sum of odd numbers" />
-    <MESSAGE value="print factorial" />
     <MESSAGE value="sum of digit" />
     <MESSAGE value="reverse printing number" />
     <MESSAGE value="Fibonacci series" />
@@ -592,7 +580,9 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="Nested class code" />
     <MESSAGE value="Element present or not in 2d array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Element present or not in 2d array" />
+    <MESSAGE value="Sum and Average of 2d array" />
+    <MESSAGE value="changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
