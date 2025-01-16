@@ -42,7 +42,6 @@ public class P33MergeTwoSortedArray {
         obj.sorted(arr2);
         obj.sorted(arr);
         obj.merge(arr,arr2,result);
-
     }
 
 }
