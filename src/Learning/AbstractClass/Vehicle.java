@@ -24,6 +24,7 @@ public abstract class Vehicle {
     public void setModelName(String modelName) {
         this.modelName = modelName;
     }
+    public abstract void start();
     public void display(){
         System.out.println("Model Name : "+getModelName());
         System.out.println("Model no : "+getModelNo());

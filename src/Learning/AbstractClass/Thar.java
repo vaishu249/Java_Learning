@@ -5,4 +5,8 @@ public class Thar extends Vehicle {
     public Thar(){
         super("Thar",1);//constructor chaning parent class constructor call using super keyword
     }
+    @Override
+    public void start(){
+        System.out.println(getModelName()+" is started now....");
+    }
 }
