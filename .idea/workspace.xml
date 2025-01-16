@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="miner changes">
-      <change afterPath="$PROJECT_DIR$/src/P36SmAndAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P37MinimumOfTwoNo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,6 +79,7 @@
     "Application.P34PlindromeArrayOrNot.executor": "Run",
     "Application.P35ReverseArray.executor": "Run",
     "Application.P36SmAndAverage.executor": "Run",
+    "Application.P37MinimumOfTwoNo.executor": "Run",
     "Application.TestDogNestedClass.executor": "Run",
     "Application.constructor.executor": "Run",
     "Application.mathClasses.executor": "Run",
@@ -91,14 +92,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.P36SmAndAverage">
-    <configuration name="P32SumAndAverageOf2DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P32SumAndAverageOf2DArray" />
-      <module name="Problem Solving" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P37MinimumOfTwoNo">
     <configuration name="P33MergeTwoSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P33MergeTwoSortedArray" />
       <module name="Problem Solving" />
@@ -127,13 +121,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P37MinimumOfTwoNo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P37MinimumOfTwoNo" />
+      <module name="Problem Solving" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P37MinimumOfTwoNo" />
         <item itemvalue="Application.P36SmAndAverage" />
         <item itemvalue="Application.P33MergeTwoSortedArray" />
         <item itemvalue="Application.P35ReverseArray" />
         <item itemvalue="Application.P34PlindromeArrayOrNot" />
-        <item itemvalue="Application.P32SumAndAverageOf2DArray" />
       </list>
     </recent_temporary>
   </component>
@@ -145,14 +146,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00010" summary="area of triangle calculating">
-      <option name="closed" value="true" />
-      <created>1730362977642</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1730362977642</updated>
     </task>
     <task id="LOCAL-00011" summary="calculate simple interest">
       <option name="closed" value="true" />
@@ -538,7 +531,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737001440436</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="miner changes">
+      <option name="closed" value="true" />
+      <created>1737006292295</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1737006292296</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
