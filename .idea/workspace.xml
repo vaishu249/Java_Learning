@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="miner changes" />
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="miner changes">
+      <change afterPath="$PROJECT_DIR$/src/P36SmAndAverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,6 +78,7 @@
     "Application.P33MergeTwoSortedArray.executor": "Run",
     "Application.P34PlindromeArrayOrNot.executor": "Run",
     "Application.P35ReverseArray.executor": "Run",
+    "Application.P36SmAndAverage.executor": "Run",
     "Application.TestDogNestedClass.executor": "Run",
     "Application.constructor.executor": "Run",
     "Application.mathClasses.executor": "Run",
@@ -87,14 +91,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.P33MergeTwoSortedArray">
-    <configuration name="P31SearchEleIn2DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P31SearchEleIn2DArray" />
-      <module name="Problem Solving" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P36SmAndAverage">
     <configuration name="P32SumAndAverageOf2DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P32SumAndAverageOf2DArray" />
       <module name="Problem Solving" />
@@ -123,13 +120,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P36SmAndAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P36SmAndAverage" />
+      <module name="Problem Solving" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P36SmAndAverage" />
         <item itemvalue="Application.P33MergeTwoSortedArray" />
         <item itemvalue="Application.P35ReverseArray" />
         <item itemvalue="Application.P34PlindromeArrayOrNot" />
         <item itemvalue="Application.P32SumAndAverageOf2DArray" />
-        <item itemvalue="Application.P31SearchEleIn2DArray" />
       </list>
     </recent_temporary>
   </component>
@@ -141,14 +145,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Perimeter Calculating">
-      <option name="closed" value="true" />
-      <created>1730362311995</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1730362311995</updated>
     </task>
     <task id="LOCAL-00010" summary="area of triangle calculating">
       <option name="closed" value="true" />
@@ -534,7 +530,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736617084752</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="miner changes">
+      <option name="closed" value="true" />
+      <created>1737001440435</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1737001440436</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
