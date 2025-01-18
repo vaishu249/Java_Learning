@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="* &#10;* * &#10;* * * &#10;* * * * &#10;* * * * *">
-      <change afterPath="$PROJECT_DIR$/src/PatternSolving/CommonInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatternSolving/Pattern_03.java" afterDir="false" />
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="* * * * * &#10;* * * * &#10;* * * &#10;* * &#10;*">
+      <change afterPath="$PROJECT_DIR$/src/PatternSolving/Pattern_04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +87,7 @@
     "Application.Pattern_01.executor": "Run",
     "Application.Pattern_02.executor": "Run",
     "Application.Pattern_03.executor": "Run",
+    "Application.Pattern_04.executor": "Run",
     "Application.Sum.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.TestDogNestedClass.executor": "Run",
@@ -101,20 +102,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Pattern_03">
-    <configuration name="Learning.UpcastDowncast.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Learning.UpcastDowncast.Test" />
-      <module name="Problem Solving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Learning.UpcastDowncast.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Pattern_04">
     <configuration name="Pattern_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PatternSolving.Pattern_01" />
       <module name="Problem Solving" />
@@ -154,6 +142,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Pattern_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PatternSolving.Pattern_04" />
+      <module name="Problem Solving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PatternSolving.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Learning.Overloading.Sum" />
       <module name="Problem Solving" />
@@ -169,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pattern_04" />
         <item itemvalue="Application.Pattern_03" />
         <item itemvalue="Application.Pattern_02" />
         <item itemvalue="Application.Pattern_01" />
         <item itemvalue="Application.Sum" />
-        <item itemvalue="Application.Learning.UpcastDowncast.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -185,22 +186,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00020" summary="table printing using loop">
-      <option name="closed" value="true" />
-      <created>1730735435721</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1730735435721</updated>
-    </task>
-    <task id="LOCAL-00021" summary="table printing using loop">
-      <option name="closed" value="true" />
-      <created>1730735468346</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1730735468346</updated>
     </task>
     <task id="LOCAL-00022" summary="table printing using loop">
       <option name="closed" value="true" />
@@ -578,7 +563,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737217541506</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="common class">
+      <option name="closed" value="true" />
+      <created>1737217824684</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1737217824684</updated>
+    </task>
+    <task id="LOCAL-00070" summary="* * * * * &#10;* * * * &#10;* * * &#10;* * &#10;*">
+      <option name="closed" value="true" />
+      <created>1737218014751</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1737218014751</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -593,8 +594,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="array sorted or not" />
-    <MESSAGE value="element delete in array" />
     <MESSAGE value="libray management book borrow and return method with constructors" />
     <MESSAGE value="math function" />
     <MESSAGE value="random function" />
@@ -618,7 +617,9 @@
     <MESSAGE value="method overloading" />
     <MESSAGE value="&#10;        //* * * * * &#10;        //*       * &#10;        //*       * &#10;        //*       * &#10;        //* * * * *" />
     <MESSAGE value="* &#10;* * &#10;* * * &#10;* * * * &#10;* * * * *" />
-    <option name="LAST_COMMIT_MESSAGE" value="* &#10;* * &#10;* * * &#10;* * * * &#10;* * * * *" />
+    <MESSAGE value="common class" />
+    <MESSAGE value="* * * * * &#10;* * * * &#10;* * * &#10;* * &#10;*" />
+    <option name="LAST_COMMIT_MESSAGE" value="* * * * * &#10;* * * * &#10;* * * &#10;* * &#10;*" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
