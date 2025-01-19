@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="*           * &#10;  *       *   &#10;    *   *     &#10;      *       &#10;    *   *     &#10;  *       *   &#10;*           *">
-      <change afterPath="$PROJECT_DIR$/src/P39MethodOveriding_Calculator.java" afterDir="false" />
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="method Overloading">
+      <change afterPath="$PROJECT_DIR$/src/P40MethodOveriding_Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P40MethodOveriding_Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +44,9 @@
     &quot;accountId&quot;: &quot;1292f176-034e-42d8-9212-870999e9677b&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -90,6 +95,7 @@
     "Application.P37MinimumOfTwoNo.executor": "Run",
     "Application.P38AbstractClass.Test.executor": "Run",
     "Application.P39MethodOveriding_Calculator.executor": "Run",
+    "Application.P40MethodOveriding_Car.executor": "Run",
     "Application.Pattern_01.executor": "Run",
     "Application.Pattern_02.executor": "Run",
     "Application.Pattern_03.executor": "Run",
@@ -111,7 +117,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.P39MethodOveriding_Calculator">
+  <component name="RunManager" selected="Application.P40MethodOveriding_Car">
     <configuration name="P39MethodOveriding_Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P39MethodOveriding_Calculator" />
       <module name="Problem Solving" />
@@ -119,15 +125,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PatternSolving.Pattern_01" />
+    <configuration name="P40MethodOveriding_Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P40MethodOveriding_Car" />
       <module name="Problem Solving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PatternSolving.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -173,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P40MethodOveriding_Car" />
         <item itemvalue="Application.P39MethodOveriding_Calculator" />
         <item itemvalue="Application.Pattern_07" />
         <item itemvalue="Application.Pattern_06" />
         <item itemvalue="Application.Pattern_05" />
-        <item itemvalue="Application.Pattern_01" />
       </list>
     </recent_temporary>
   </component>
@@ -189,14 +189,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00027" summary="sum of digit">
-      <option name="closed" value="true" />
-      <created>1730738195543</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1730738195543</updated>
     </task>
     <task id="LOCAL-00028" summary="reverse printing number">
       <option name="closed" value="true" />
@@ -582,7 +574,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737298685072</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="method Overloading">
+      <option name="closed" value="true" />
+      <created>1737309032118</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1737309032118</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -597,7 +597,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="to avoid concatination of string" />
     <MESSAGE value="inheritance program" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="Nested class code" />
@@ -622,7 +621,8 @@
     <MESSAGE value="00000000010&#10;000000009&#10;00000008&#10;0000007&#10;000006&#10;00005&#10;0004&#10;003&#10;02&#10;1" />
     <MESSAGE value="     *&#10;    **&#10;   ***&#10;  ****&#10; *****" />
     <MESSAGE value="*           * &#10;  *       *   &#10;    *   *     &#10;      *       &#10;    *   *     &#10;  *       *   &#10;*           *" />
-    <option name="LAST_COMMIT_MESSAGE" value="*           * &#10;  *       *   &#10;    *   *     &#10;      *       &#10;    *   *     &#10;  *       *   &#10;*           *" />
+    <MESSAGE value="method Overloading" />
+    <option name="LAST_COMMIT_MESSAGE" value="method Overloading" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -643,5 +643,8 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Problem_Solving$P40MethodOveriding_Car.ic" NAME="P40MethodOveriding_Car Coverage Results" MODIFIED="1737309460441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
   </component>
 </project>
