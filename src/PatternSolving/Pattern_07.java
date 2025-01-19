@@ -29,3 +29,4 @@ public class Pattern_07 {
 //    *   *
 //  *       *
 //*           *
+//ans
