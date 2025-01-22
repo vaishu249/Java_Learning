@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="1 1 1 1 1 1 1   &#10;2 2 2 2 2 2 2   &#10;3 3 3 3 3 3 3   &#10;4 4 4 4 4 4 4   &#10;5 5 5 5 5 5 5   &#10;6 6 6 6 6 6 6   &#10;7 7 7 7 7 7 7">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="Even Odd using ternary operator">
+      <change afterPath="$PROJECT_DIR$/src/P43SwitchCaseMonths.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,73 +56,75 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AvoidConcatination.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Eagle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FileWriterExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Learning.UpcastDowncast.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P05.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P06.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P07_Arithmatic_Operation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P08PerimeterOfRectangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P09AreaOfTriangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P10SimpleIntrest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P12CelciusConversion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P13NumberPositiveOrNegative.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P14NumberEvenOrOdd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P15GreatestAmongThreeNo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P16GradeFinding.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P18TablePrintUsingLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P19SumOfOddNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P20Factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P21SumOfDigit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P22ReverseNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P23FibonacciSeries.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P24ArraySearchAnElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P25SumOfAverageOfArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P26NoOfOcurance.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P27MaximumMinimunNoOfArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P28ArraySortedOrNot.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P30LibrarySystem.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P31SearchEleIn2DArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P32SumAndAverageOf2DArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P33MergeTwoSortedArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P34PlindromeArrayOrNot.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P35ReverseArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P36SmAndAverage.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P37MinimumOfTwoNo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P38AbstractClass.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P39MethodOveriding_Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P40MethodOveriding_Car.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P41ExceptionHandling.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern_01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern_02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern_03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern_04.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern_05.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern_06.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern_07.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern_08.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern_09.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern_10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern_11.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern_12.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestDogNestedClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.constructor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.mathClasses.executor&quot;: &quot;Run&quot;,
-    &quot;Application.rectangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.toStringMethod.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AvoidConcatination.executor": "Run",
+    "Application.Eagle.executor": "Run",
+    "Application.FileWriterExample.executor": "Run",
+    "Application.Learning.UpcastDowncast.Test.executor": "Run",
+    "Application.P05.executor": "Run",
+    "Application.P06.executor": "Run",
+    "Application.P07_Arithmatic_Operation.executor": "Run",
+    "Application.P08PerimeterOfRectangle.executor": "Run",
+    "Application.P09AreaOfTriangle.executor": "Run",
+    "Application.P10SimpleIntrest.executor": "Run",
+    "Application.P12CelciusConversion.executor": "Run",
+    "Application.P13NumberPositiveOrNegative.executor": "Run",
+    "Application.P14NumberEvenOrOdd.executor": "Run",
+    "Application.P15GreatestAmongThreeNo.executor": "Run",
+    "Application.P16GradeFinding.executor": "Run",
+    "Application.P18TablePrintUsingLoop.executor": "Run",
+    "Application.P19SumOfOddNumber.executor": "Run",
+    "Application.P20Factorial.executor": "Run",
+    "Application.P21SumOfDigit.executor": "Run",
+    "Application.P22ReverseNumber.executor": "Run",
+    "Application.P23FibonacciSeries.executor": "Run",
+    "Application.P24ArraySearchAnElement.executor": "Run",
+    "Application.P25SumOfAverageOfArray.executor": "Run",
+    "Application.P26NoOfOcurance.executor": "Run",
+    "Application.P27MaximumMinimunNoOfArray.executor": "Run",
+    "Application.P28ArraySortedOrNot.executor": "Run",
+    "Application.P30LibrarySystem.executor": "Run",
+    "Application.P31SearchEleIn2DArray.executor": "Run",
+    "Application.P32SumAndAverageOf2DArray.executor": "Run",
+    "Application.P33MergeTwoSortedArray.executor": "Run",
+    "Application.P34PlindromeArrayOrNot.executor": "Run",
+    "Application.P35ReverseArray.executor": "Run",
+    "Application.P36SmAndAverage.executor": "Run",
+    "Application.P37MinimumOfTwoNo.executor": "Run",
+    "Application.P38AbstractClass.Test.executor": "Run",
+    "Application.P39MethodOveriding_Calculator.executor": "Run",
+    "Application.P40MethodOveriding_Car.executor": "Run",
+    "Application.P41ExceptionHandling.executor": "Run",
+    "Application.P42EvenOddTerneryOpr.executor": "Run",
+    "Application.P43SwitchCaseMonths.executor": "Run",
+    "Application.Pattern_01.executor": "Run",
+    "Application.Pattern_02.executor": "Run",
+    "Application.Pattern_03.executor": "Run",
+    "Application.Pattern_04.executor": "Run",
+    "Application.Pattern_05.executor": "Run",
+    "Application.Pattern_06.executor": "Run",
+    "Application.Pattern_07.executor": "Run",
+    "Application.Pattern_08.executor": "Run",
+    "Application.Pattern_09.executor": "Run",
+    "Application.Pattern_10.executor": "Run",
+    "Application.Pattern_11.executor": "Run",
+    "Application.Pattern_12.executor": "Run",
+    "Application.Sum.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.TestDogNestedClass.executor": "Run",
+    "Application.constructor.executor": "Run",
+    "Application.mathClasses.executor": "Run",
+    "Application.rectangle.executor": "Run",
+    "Application.toStringMethod.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
-  <component name="RunManager" selected="Application.P42EvenOddTerneryOpr">
+}]]></component>
+  <component name="RunManager" selected="Application.P43SwitchCaseMonths">
     <configuration name="P42EvenOddTerneryOpr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P42EvenOddTerneryOpr" />
       <module name="Problem Solving" />
@@ -130,15 +132,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern_09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PatternSolving.Pattern_09" />
+    <configuration name="P43SwitchCaseMonths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P43SwitchCaseMonths" />
       <module name="Problem Solving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PatternSolving.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -184,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P43SwitchCaseMonths" />
         <item itemvalue="Application.P42EvenOddTerneryOpr" />
         <item itemvalue="Application.Pattern_12" />
         <item itemvalue="Application.Pattern_11" />
         <item itemvalue="Application.Pattern_10" />
-        <item itemvalue="Application.Pattern_09" />
       </list>
     </recent_temporary>
   </component>
@@ -200,14 +196,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00037" summary="one folder">
-      <option name="closed" value="true" />
-      <created>1735029929430</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1735029929430</updated>
     </task>
     <task id="LOCAL-00038" summary="created the new package">
       <option name="closed" value="true" />
@@ -593,7 +581,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737527934476</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="Even Odd using ternary operator">
+      <option name="closed" value="true" />
+      <created>1737564727306</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1737564727307</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -608,7 +604,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="greater no  finding between 3 no" />
     <MESSAGE value="abstract class implementation" />
     <MESSAGE value="abstract method implementation" />
     <MESSAGE value="proble challenges" />
@@ -633,7 +628,8 @@
     <MESSAGE value="W                 W  &#10;   e           e     &#10;      l     l        &#10;         c           &#10;      o     o        &#10;   m           m     &#10;e                 e" />
     <MESSAGE value="A &#10;B B &#10;C C C &#10;D D D D &#10;E E E E E" />
     <MESSAGE value="1 1 1 1 1 1 1   &#10;2 2 2 2 2 2 2   &#10;3 3 3 3 3 3 3   &#10;4 4 4 4 4 4 4   &#10;5 5 5 5 5 5 5   &#10;6 6 6 6 6 6 6   &#10;7 7 7 7 7 7 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="1 1 1 1 1 1 1   &#10;2 2 2 2 2 2 2   &#10;3 3 3 3 3 3 3   &#10;4 4 4 4 4 4 4   &#10;5 5 5 5 5 5 5   &#10;6 6 6 6 6 6 6   &#10;7 7 7 7 7 7 7" />
+    <MESSAGE value="Even Odd using ternary operator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Even Odd using ternary operator" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
