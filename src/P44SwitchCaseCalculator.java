@@ -6,9 +6,9 @@ public class P44SwitchCaseCalculator {
         System.out.println("Enter a and b value:");
         int a=input.nextInt();
         int b= input.nextInt();
-        System.out.println("1.Addition\n2.Substraction\n3.Division\n4.Multiplication\n5.Modulus");
+        System.out.println("1.Addition\n2.Subtraction\n3.Division\n4.Multiplication\n5.Modulus");
         int n= input.nextInt();
-        float ans=switch(n){
+        int ans=switch(n){
             case 1->(a+b);
             case 2->(a-b);
             case 3->(a/b);

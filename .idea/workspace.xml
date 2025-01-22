@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="switch case from 12.0 version onwords">
-      <change afterPath="$PROJECT_DIR$/src/P44SwitchCaseCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="switch of calculator" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,6 +96,7 @@
     "Application.P41ExceptionHandling.executor": "Run",
     "Application.P42EvenOddTerneryOpr.executor": "Run",
     "Application.P43SwitchCaseMonths.executor": "Run",
+    "Application.P44SwitchCaseCalculator.executor": "Run",
     "Application.Pattern_01.executor": "Run",
     "Application.Pattern_02.executor": "Run",
     "Application.Pattern_03.executor": "Run",
@@ -191,14 +189,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00039" summary="class obj practice">
-      <option name="closed" value="true" />
-      <created>1735030619548</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1735030619548</updated>
     </task>
     <task id="LOCAL-00040" summary="constructor">
       <option name="closed" value="true" />
@@ -584,7 +574,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737565309185</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="switch of calculator">
+      <option name="closed" value="true" />
+      <created>1737566660614</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1737566660614</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -599,7 +597,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="abstract method implementation" />
     <MESSAGE value="proble challenges" />
     <MESSAGE value="problem challenges related with interface" />
     <MESSAGE value="upcast downcast" />
@@ -624,7 +621,8 @@
     <MESSAGE value="1 1 1 1 1 1 1   &#10;2 2 2 2 2 2 2   &#10;3 3 3 3 3 3 3   &#10;4 4 4 4 4 4 4   &#10;5 5 5 5 5 5 5   &#10;6 6 6 6 6 6 6   &#10;7 7 7 7 7 7 7" />
     <MESSAGE value="Even Odd using ternary operator" />
     <MESSAGE value="switch case from 12.0 version onwords" />
-    <option name="LAST_COMMIT_MESSAGE" value="switch case from 12.0 version onwords" />
+    <MESSAGE value="switch of calculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="switch of calculator" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
