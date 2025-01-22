@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="W                 W  &#10;   e           e     &#10;      l     l        &#10;         c           &#10;      o     o        &#10;   m           m     &#10;e                 e">
-      <change afterPath="$PROJECT_DIR$/src/PatternSolving/Pattern_11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="A &#10;B B &#10;C C C &#10;D D D D &#10;E E E E E">
+      <change afterPath="$PROJECT_DIR$/src/PatternSolving/Pattern_12.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,6 +107,7 @@
     "Application.Pattern_09.executor": "Run",
     "Application.Pattern_10.executor": "Run",
     "Application.Pattern_11.executor": "Run",
+    "Application.Pattern_12.executor": "Run",
     "Application.Sum.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.TestDogNestedClass.executor": "Run",
@@ -122,20 +122,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Pattern_11">
-    <configuration name="FileWriterExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Learning.FileWriterExample" />
-      <module name="Problem Solving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Learning.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Pattern_12">
     <configuration name="Pattern_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PatternSolving.Pattern_08" />
       <module name="Problem Solving" />
@@ -188,13 +175,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Pattern_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PatternSolving.Pattern_12" />
+      <module name="Problem Solving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PatternSolving.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pattern_12" />
         <item itemvalue="Application.Pattern_11" />
         <item itemvalue="Application.Pattern_10" />
         <item itemvalue="Application.Pattern_09" />
         <item itemvalue="Application.Pattern_08" />
-        <item itemvalue="Application.FileWriterExample" />
       </list>
     </recent_temporary>
   </component>
@@ -206,14 +206,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00035" summary="printing minimum and maximum no in array">
-      <option name="closed" value="true" />
-      <created>1734974632890</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1734974632890</updated>
     </task>
     <task id="LOCAL-00036" summary="one folder">
       <option name="closed" value="true" />
@@ -599,7 +591,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737525763300</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="A &#10;B B &#10;C C C &#10;D D D D &#10;E E E E E">
+      <option name="closed" value="true" />
+      <created>1737527740576</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1737527740576</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -614,7 +614,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="reverse array" />
     <MESSAGE value="miner changes" />
     <MESSAGE value="greater no  finding between 3 no" />
     <MESSAGE value="abstract class implementation" />
@@ -639,7 +638,8 @@
     <MESSAGE value="changes" />
     <MESSAGE value="x x x x x x x x x x &#10;9 9 9 9 9 9 9 9 9 9 &#10;x x x x x x x x x x &#10;7 7 7 7 7 7 7 7 7 7 &#10;x x x x x x x x x x" />
     <MESSAGE value="W                 W  &#10;   e           e     &#10;      l     l        &#10;         c           &#10;      o     o        &#10;   m           m     &#10;e                 e" />
-    <option name="LAST_COMMIT_MESSAGE" value="W                 W  &#10;   e           e     &#10;      l     l        &#10;         c           &#10;      o     o        &#10;   m           m     &#10;e                 e" />
+    <MESSAGE value="A &#10;B B &#10;C C C &#10;D D D D &#10;E E E E E" />
+    <option name="LAST_COMMIT_MESSAGE" value="A &#10;B B &#10;C C C &#10;D D D D &#10;E E E E E" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
