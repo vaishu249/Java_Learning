@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="Set collection">
-      <change afterPath="$PROJECT_DIR$/src/Collection/MapCollectionFramework.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="map changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -208,30 +205,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00047" summary="toString method">
-      <option name="closed" value="true" />
-      <created>1735741425378</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1735741425378</updated>
-    </task>
-    <task id="LOCAL-00048" summary="to avoid concatination of string">
-      <option name="closed" value="true" />
-      <created>1735799993642</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1735799993642</updated>
-    </task>
-    <task id="LOCAL-00049" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <option name="closed" value="true" />
-      <created>1735827505593</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1735827505593</updated>
     </task>
     <task id="LOCAL-00050" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <option name="closed" value="true" />
@@ -601,7 +574,31 @@
       <option name="project" value="LOCAL" />
       <updated>1737636802436</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="map">
+      <option name="closed" value="true" />
+      <created>1737641973314</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1737641973314</updated>
+    </task>
+    <task id="LOCAL-00097" summary="map changes">
+      <option name="closed" value="true" />
+      <created>1737642047704</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1737642047704</updated>
+    </task>
+    <task id="LOCAL-00098" summary="map changes">
+      <option name="closed" value="true" />
+      <created>1737643646022</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1737643646022</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -616,8 +613,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="method overloading" />
-    <MESSAGE value="&#10;        //* * * * * &#10;        //*       * &#10;        //*       * &#10;        //*       * &#10;        //* * * * *" />
     <MESSAGE value="* &#10;* * &#10;* * * &#10;* * * * &#10;* * * * *" />
     <MESSAGE value="common class" />
     <MESSAGE value="* * * * * &#10;* * * * &#10;* * * &#10;* * &#10;*" />
@@ -641,7 +636,9 @@
     <MESSAGE value="Collection List" />
     <MESSAGE value="Queue collection" />
     <MESSAGE value="Set collection" />
-    <option name="LAST_COMMIT_MESSAGE" value="Set collection" />
+    <MESSAGE value="map" />
+    <MESSAGE value="map changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="map changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
