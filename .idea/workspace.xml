@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="switch of calculator">
-      <change afterPath="$PROJECT_DIR$/src/Collection/ArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="Collection List" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -193,14 +190,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00041" summary="array sorted or not">
-      <option name="closed" value="true" />
-      <created>1735377090594</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1735377090595</updated>
     </task>
     <task id="LOCAL-00042" summary="element delete in array">
       <option name="closed" value="true" />
@@ -586,7 +575,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737567336458</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="Collection List">
+      <option name="closed" value="true" />
+      <created>1737622546213</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1737622546214</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -601,7 +598,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="proble challenges" />
     <MESSAGE value="problem challenges related with interface" />
     <MESSAGE value="upcast downcast" />
     <MESSAGE value="method overloading" />
@@ -626,7 +622,8 @@
     <MESSAGE value="Even Odd using ternary operator" />
     <MESSAGE value="switch case from 12.0 version onwords" />
     <MESSAGE value="switch of calculator" />
-    <option name="LAST_COMMIT_MESSAGE" value="switch of calculator" />
+    <MESSAGE value="Collection List" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collection List" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
