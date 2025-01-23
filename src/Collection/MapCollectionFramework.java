@@ -17,6 +17,9 @@ public class MapCollectionFramework {
         }
         System.out.println(m.remove(5));
         System.out.println(m.size());
+        System.out.println(m.keySet());
+        System.out.println(m.values());
+        System.out.println(m.containsKey(4));
 
     }
 }
