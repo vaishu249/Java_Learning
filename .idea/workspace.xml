@@ -125,7 +125,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LinkedListOfQueue">
+  <component name="RunManager" selected="Application.SetHashSet">
     <configuration name="ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Collection.ArrayList" />
       <module name="Problem Solving" />
@@ -152,13 +152,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P42EvenOddTerneryOpr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P42EvenOddTerneryOpr" />
-      <module name="Problem Solving" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="P43SwitchCaseMonths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P43SwitchCaseMonths" />
       <module name="Problem Solving" />
@@ -173,13 +166,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SetHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection.SetHashSet" />
+      <module name="Problem Solving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SetHashSet" />
         <item itemvalue="Application.LinkedListOfQueue" />
         <item itemvalue="Application.ArrayList" />
         <item itemvalue="Application.P44SwitchCaseCalculator" />
         <item itemvalue="Application.P43SwitchCaseMonths" />
-        <item itemvalue="Application.P42EvenOddTerneryOpr" />
       </list>
     </recent_temporary>
   </component>
