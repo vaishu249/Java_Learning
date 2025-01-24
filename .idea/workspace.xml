@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="minar">
-      <change afterPath="$PROJECT_DIR$/src/PatternSolving/Pattern_13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="* * * * * &#10;*       * &#10;* * *   * &#10;*   *   * &#10;* * * * *" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -215,14 +212,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00054" summary="changes">
-      <option name="closed" value="true" />
-      <created>1736346418379</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1736346418379</updated>
     </task>
     <task id="LOCAL-00055" summary="palindrome array or not">
       <option name="closed" value="true" />
@@ -608,7 +597,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737740204540</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="* * * * * &#10;*       * &#10;* * *   * &#10;*   *   * &#10;* * * * *">
+      <option name="closed" value="true" />
+      <created>1737742303452</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1737742303452</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -623,7 +620,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="common class" />
     <MESSAGE value="* * * * * &#10;* * * * &#10;* * * &#10;* * &#10;*" />
     <MESSAGE value="1 &#10;1 3 &#10;1 3 5 &#10;1 3 5 7 &#10;1 3 5 7 9 &#10;2 4 6 8 10 &#10;2 4 6 8 &#10;2 4 6 &#10;2 4 &#10;2" />
     <MESSAGE value="00000000010&#10;000000009&#10;00000008&#10;0000007&#10;000006&#10;00005&#10;0004&#10;003&#10;02&#10;1" />
@@ -648,7 +644,8 @@
     <MESSAGE value="map" />
     <MESSAGE value="map changes" />
     <MESSAGE value="minar" />
-    <option name="LAST_COMMIT_MESSAGE" value="minar" />
+    <MESSAGE value="* * * * * &#10;*       * &#10;* * *   * &#10;*   *   * &#10;* * * * *" />
+    <option name="LAST_COMMIT_MESSAGE" value="* * * * * &#10;*       * &#10;* * *   * &#10;*   *   * &#10;* * * * *" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
