@@ -1,4 +1,4 @@
-package Learning.Multithreading;
+package Learning.Multithreading.ExtendsThreadClass;
 
 public class Third extends Thread {
     @Override

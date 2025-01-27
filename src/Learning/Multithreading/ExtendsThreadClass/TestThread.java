@@ -1,4 +1,4 @@
-package Learning.Multithreading;
+package Learning.Multithreading.ExtendsThreadClass;
 
 public class TestThread {
     public static void main(String[] args) {

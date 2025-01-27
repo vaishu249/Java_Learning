@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="Thread implementing using thread class">
-      <change afterPath="$PROJECT_DIR$/src/PatternSolving/Pattern_14.java" afterDir="false" />
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="half pattern logic">
+      <change afterPath="$PROJECT_DIR$/src/Learning/Multithreading/ImplementingRunnableInterface/PrintTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning/Multithreading/ImplementingRunnableInterface/TestRunnable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Learning/Multithreading/First.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learning/Multithreading/ExtendsThreadClass/First.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Learning/Multithreading/Second.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learning/Multithreading/ExtendsThreadClass/Second.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Learning/Multithreading/TestThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learning/Multithreading/ExtendsThreadClass/TestThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Learning/Multithreading/Third.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learning/Multithreading/ExtendsThreadClass/Third.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,6 +127,7 @@
     "Application.Sum.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.TestDogNestedClass.executor": "Run",
+    "Application.TestRunnable.executor": "Run",
     "Application.TestThread.executor": "Run",
     "Application.constructor.executor": "Run",
     "Application.mathClasses.executor": "Run",
@@ -142,20 +148,7 @@
       <recent name="Learning.Multithreading" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Pattern_14">
-    <configuration name="MapCollectionFramework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collection.MapCollectionFramework" />
-      <module name="Problem Solving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Collection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TestRunnable">
     <configuration name="P50TernaryOperatorStudentScore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P50TernaryOperatorStudentScore" />
       <module name="Problem Solving" />
@@ -189,12 +182,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Learning.Multithreading.TestThread" />
+    <configuration name="TestRunnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Learning.Multithreading.ImplementingRunnableInterface.TestRunnable" />
       <module name="Problem Solving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Learning.Multithreading.*" />
+          <option name="PATTERN" value="Learning.Multithreading.ImplementingRunnableInterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Learning.Multithreading.ExtendsThreadClass.TestThread" />
+      <module name="Problem Solving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Learning.Multithreading.ExtendsThreadClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestRunnable" />
         <item itemvalue="Application.Pattern_14" />
         <item itemvalue="Application.TestThread" />
         <item itemvalue="Application.P50TernaryOperatorStudentScore" />
         <item itemvalue="Application.Pattern_13" />
-        <item itemvalue="Application.MapCollectionFramework" />
       </list>
     </recent_temporary>
   </component>
@@ -220,14 +226,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00064" summary="problem challenges related with interface">
-      <option name="closed" value="true" />
-      <created>1737185171964</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1737185171964</updated>
     </task>
     <task id="LOCAL-00065" summary="upcast downcast">
       <option name="closed" value="true" />
@@ -613,7 +611,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737980596467</updated>
     </task>
-    <option name="localTasksCounter" value="113" />
+    <task id="LOCAL-00113" summary="half pattern logic">
+      <option name="closed" value="true" />
+      <created>1737981950298</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1737981950299</updated>
+    </task>
+    <option name="localTasksCounter" value="114" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -628,7 +634,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="     *&#10;    **&#10;   ***&#10;  ****&#10; *****" />
     <MESSAGE value="*           * &#10;  *       *   &#10;    *   *     &#10;      *       &#10;    *   *     &#10;  *       *   &#10;*           *" />
     <MESSAGE value="method Overloading" />
     <MESSAGE value="method Overiding" />
@@ -653,7 +658,8 @@
     <MESSAGE value="half" />
     <MESSAGE value="Ternary operator use score card" />
     <MESSAGE value="Thread implementing using thread class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Thread implementing using thread class" />
+    <MESSAGE value="half pattern logic" />
+    <option name="LAST_COMMIT_MESSAGE" value="half pattern logic" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
