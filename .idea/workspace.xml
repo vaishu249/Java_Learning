@@ -219,22 +219,6 @@
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
     </task>
-    <task id="LOCAL-00066" summary="method overloading">
-      <option name="closed" value="true" />
-      <created>1737192163429</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1737192163429</updated>
-    </task>
-    <task id="LOCAL-00067" summary="&#10;        //* * * * * &#10;        //*       * &#10;        //*       * &#10;        //*       * &#10;        //* * * * *">
-      <option name="closed" value="true" />
-      <created>1737217362998</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1737217362998</updated>
-    </task>
     <task id="LOCAL-00068" summary="* &#10;* * &#10;* * * &#10;* * * * &#10;* * * * *">
       <option name="closed" value="true" />
       <created>1737217541505</created>
@@ -611,7 +595,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737990499961</updated>
     </task>
-    <option name="localTasksCounter" value="115" />
+    <task id="LOCAL-00115" summary="Multithreading using Runnable Interface">
+      <option name="closed" value="true" />
+      <created>1737990655599</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1737990655599</updated>
+    </task>
+    <task id="LOCAL-00116" summary="Multithreading using Runnable Interface">
+      <option name="closed" value="true" />
+      <created>1737997333443</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1737997333443</updated>
+    </task>
+    <option name="localTasksCounter" value="117" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
