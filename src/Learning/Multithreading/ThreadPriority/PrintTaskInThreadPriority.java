@@ -1,6 +1,6 @@
-package Learning.Multithreading.ImplementingRunnableInterface;
+package Learning.Multithreading.ThreadPriority;
 
-public class PrintTask implements Runnable {
+public class PrintTaskInThreadPriority implements Runnable {
     @Override
     public void run() {
         for (int i = 0; i < 1000; i++) {
@@ -11,7 +11,7 @@ public class PrintTask implements Runnable {
 
     }
     public final char ch;
-    PrintTask(char ch){
+    PrintTaskInThreadPriority(char ch){
         this.ch=ch;
     }
 }
