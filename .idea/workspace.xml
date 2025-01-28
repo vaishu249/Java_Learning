@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="Multithreading using Runnable Interface">
-      <change afterPath="$PROJECT_DIR$/src/Learning/Multithreading/ThreadPriority/PrintTaskInThreadPriority.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learning/Multithreading/ThreadPriority/TestRunnableThreadPriority.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Learning/Multithreading/ImplementingRunnableInterface/PrintTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learning/Multithreading/ImplementingRunnableInterface/PrintTaskThreadPriority.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Learning/Multithreading/ImplementingRunnableInterface/TestRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learning/Multithreading/ImplementingRunnableInterface/TestRunnable.java" afterDir="false" />
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="Thread Priority">
+      <change beforePath="$PROJECT_DIR$/src/Learning/Multithreading/ThreadPriority/TestRunnableThreadPriority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learning/Multithreading/ThreadPriority/TestRunnableThreadPriority.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,14 +222,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00070" summary="* * * * * &#10;* * * * &#10;* * * &#10;* * &#10;*">
-      <option name="closed" value="true" />
-      <created>1737218014751</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1737218014751</updated>
     </task>
     <task id="LOCAL-00071" summary="1 &#10;1 3 &#10;1 3 5 &#10;1 3 5 7 &#10;1 3 5 7 9 &#10;2 4 6 8 10 &#10;2 4 6 8 &#10;2 4 6 &#10;2 4 &#10;2">
       <option name="closed" value="true" />
@@ -619,7 +607,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738055277965</updated>
     </task>
-    <option name="localTasksCounter" value="119" />
+    <task id="LOCAL-00119" summary="Thread Priority">
+      <option name="closed" value="true" />
+      <created>1738075322497</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1738075322497</updated>
+    </task>
+    <option name="localTasksCounter" value="120" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -634,7 +630,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="method Overloading" />
     <MESSAGE value="method Overiding" />
     <MESSAGE value="try catch finally block execution" />
     <MESSAGE value="File writing" />
@@ -659,7 +654,8 @@
     <MESSAGE value="Thread implementing using thread class" />
     <MESSAGE value="half pattern logic" />
     <MESSAGE value="Multithreading using Runnable Interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="Multithreading using Runnable Interface" />
+    <MESSAGE value="Thread Priority" />
+    <option name="LAST_COMMIT_MESSAGE" value="Thread Priority" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
