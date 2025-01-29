@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="Thraed problem with join">
-      <change afterPath="$PROJECT_DIR$/src/P47TrafficSignal/GREEN_Signal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P47TrafficSignal/RED_Signal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P47TrafficSignal/TestThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P47TrafficSignal/YELLOW_Signal.java" afterDir="false" />
-    </list>
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="Thread sleep and synchronized keyword" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -234,14 +229,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00077" summary="method Overiding">
-      <option name="closed" value="true" />
-      <created>1737309750698</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1737309750699</updated>
     </task>
     <task id="LOCAL-00078" summary="try catch finally block execution">
       <option name="closed" value="true" />
@@ -627,7 +614,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738164140411</updated>
     </task>
-    <option name="localTasksCounter" value="126" />
+    <task id="LOCAL-00126" summary="Thread sleep and synchronized keyword">
+      <option name="closed" value="true" />
+      <created>1738166445298</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1738166445298</updated>
+    </task>
+    <option name="localTasksCounter" value="127" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -642,7 +637,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="*  *  *  *  *  *  *  &#10;*  *           *  *  &#10;*     *     *     *  &#10;*        *        *  &#10;*     *     *     *  &#10;*  *           *  *  &#10;*  *  *  *  *  *  *" />
     <MESSAGE value="changes" />
     <MESSAGE value="x x x x x x x x x x &#10;9 9 9 9 9 9 9 9 9 9 &#10;x x x x x x x x x x &#10;7 7 7 7 7 7 7 7 7 7 &#10;x x x x x x x x x x" />
     <MESSAGE value="W                 W  &#10;   e           e     &#10;      l     l        &#10;         c           &#10;      o     o        &#10;   m           m     &#10;e                 e" />
@@ -667,7 +661,8 @@
     <MESSAGE value="Thread join" />
     <MESSAGE value="Thraed problem" />
     <MESSAGE value="Thraed problem with join" />
-    <option name="LAST_COMMIT_MESSAGE" value="Thraed problem with join" />
+    <MESSAGE value="Thread sleep and synchronized keyword" />
+    <option name="LAST_COMMIT_MESSAGE" value="Thread sleep and synchronized keyword" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
