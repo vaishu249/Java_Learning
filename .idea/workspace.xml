@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="Thread join">
-      <change afterPath="$PROJECT_DIR$/src/P45Thread/TestThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P45Thread/ThreadOne.java" afterDir="false" />
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="Thraed problem">
+      <change afterPath="$PROJECT_DIR$/src/P46ThreadJoin/TestThreadJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P46ThreadJoin/Threadone.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,6 +126,7 @@
     "Application.TestRunnable.executor": "Run",
     "Application.TestRunnableThreadPriority.executor": "Run",
     "Application.TestThread.executor": "Run",
+    "Application.TestThreadJoin.executor": "Run",
     "Application.constructor.executor": "Run",
     "Application.mathClasses.executor": "Run",
     "Application.rectangle.executor": "Run",
@@ -146,7 +147,7 @@
       <recent name="Learning.Multithreading" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P45Thread.TestThread">
+  <component name="RunManager" selected="Application.TestThreadJoin">
     <configuration name="P45Thread.TestThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P45Thread.TestThread" />
       <module name="Problem Solving" />
@@ -199,12 +200,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Learning.Multithreading.ExtendsThreadClass.TestThread" />
+    <configuration name="TestThreadJoin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P46ThreadJoin.TestThreadJoin" />
       <module name="Problem Solving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Learning.Multithreading.ExtendsThreadClass.*" />
+          <option name="PATTERN" value="P46ThreadJoin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,11 +215,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestThreadJoin" />
         <item itemvalue="Application.P45Thread.TestThread" />
         <item itemvalue="Application.TestRunnableThreadPriority" />
         <item itemvalue="Application.TestRunnable" />
         <item itemvalue="Application.Pattern_14" />
-        <item itemvalue="Application.TestThread" />
       </list>
     </recent_temporary>
   </component>
@@ -230,14 +231,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00075" summary="*           * &#10;  *       *   &#10;    *   *     &#10;      *       &#10;    *   *     &#10;  *       *   &#10;*           *">
-      <option name="closed" value="true" />
-      <created>1737298685072</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1737298685072</updated>
     </task>
     <task id="LOCAL-00076" summary="method Overloading">
       <option name="closed" value="true" />
@@ -623,7 +616,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738163143249</updated>
     </task>
-    <option name="localTasksCounter" value="124" />
+    <task id="LOCAL-00124" summary="Thraed problem">
+      <option name="closed" value="true" />
+      <created>1738163729404</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1738163729405</updated>
+    </task>
+    <option name="localTasksCounter" value="125" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -638,7 +639,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="try catch finally block execution" />
     <MESSAGE value="File writing" />
     <MESSAGE value="*  *  *  *  *  *  *  &#10;*  *           *  *  &#10;*     *     *     *  &#10;*        *        *  &#10;*     *     *     *  &#10;*  *           *  *  &#10;*  *  *  *  *  *  *" />
     <MESSAGE value="changes" />
@@ -663,7 +663,8 @@
     <MESSAGE value="Multithreading using Runnable Interface" />
     <MESSAGE value="Thread Priority" />
     <MESSAGE value="Thread join" />
-    <option name="LAST_COMMIT_MESSAGE" value="Thread join" />
+    <MESSAGE value="Thraed problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Thraed problem" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
