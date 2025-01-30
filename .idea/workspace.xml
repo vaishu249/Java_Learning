@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="Thread sleep and synchronized keyword">
-      <change afterPath="$PROJECT_DIR$/src/Learning/ExecutorService/TestExecutorService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learning/ExecutorService/ThreadOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P47TrafficSignal/TestThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P47TrafficSignal/TestThread.java" afterDir="false" />
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="Thread executor">
+      <change afterPath="$PROJECT_DIR$/src/Learning/ExecutorService/MultipleThreadForPoolOfTHREAD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning/ExecutorService/TestExecutorServiceWithMultipleThread.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,6 +124,7 @@
     "Application.Test.executor": "Run",
     "Application.TestDogNestedClass.executor": "Run",
     "Application.TestExecutorService.executor": "Run",
+    "Application.TestExecutorServiceWithMultipleThread.executor": "Run",
     "Application.TestRunnable.executor": "Run",
     "Application.TestRunnableThreadPriority.executor": "Run",
     "Application.TestThread.executor": "Run",
@@ -151,7 +150,7 @@
       <recent name="Learning.Multithreading" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestExecutorService">
+  <component name="RunManager" selected="Application.TestExecutorServiceWithMultipleThread">
     <configuration name="P45Thread.TestThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P45Thread.TestThread" />
       <module name="Problem Solving" />
@@ -178,12 +177,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestRunnableThreadPriority" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Learning.Multithreading.ThreadPriority.TestRunnableThreadPriority" />
+    <configuration name="TestExecutorServiceWithMultipleThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Learning.ExecutorService.TestExecutorServiceWithMultipleThread" />
       <module name="Problem Solving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Learning.Multithreading.ThreadPriority.*" />
+          <option name="PATTERN" value="Learning.ExecutorService.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,11 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestExecutorServiceWithMultipleThread" />
         <item itemvalue="Application.TestExecutorService" />
         <item itemvalue="Application.TestThread" />
         <item itemvalue="Application.TestThreadJoin" />
         <item itemvalue="Application.P45Thread.TestThread" />
-        <item itemvalue="Application.TestRunnableThreadPriority" />
       </list>
     </recent_temporary>
   </component>
@@ -235,14 +234,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00081" summary="changes">
-      <option name="closed" value="true" />
-      <created>1737479356750</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1737479356750</updated>
     </task>
     <task id="LOCAL-00082" summary="x x x x x x x x x x &#10;9 9 9 9 9 9 9 9 9 9 &#10;x x x x x x x x x x &#10;7 7 7 7 7 7 7 7 7 7 &#10;x x x x x x x x x x">
       <option name="closed" value="true" />
@@ -628,7 +619,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738233851438</updated>
     </task>
-    <option name="localTasksCounter" value="130" />
+    <task id="LOCAL-00130" summary="Thread executor">
+      <option name="closed" value="true" />
+      <created>1738261155371</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1738261155371</updated>
+    </task>
+    <option name="localTasksCounter" value="131" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -643,7 +642,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="changes" />
     <MESSAGE value="x x x x x x x x x x &#10;9 9 9 9 9 9 9 9 9 9 &#10;x x x x x x x x x x &#10;7 7 7 7 7 7 7 7 7 7 &#10;x x x x x x x x x x" />
     <MESSAGE value="W                 W  &#10;   e           e     &#10;      l     l        &#10;         c           &#10;      o     o        &#10;   m           m     &#10;e                 e" />
     <MESSAGE value="A &#10;B B &#10;C C C &#10;D D D D &#10;E E E E E" />
@@ -668,7 +666,8 @@
     <MESSAGE value="Thraed problem" />
     <MESSAGE value="Thraed problem with join" />
     <MESSAGE value="Thread sleep and synchronized keyword" />
-    <option name="LAST_COMMIT_MESSAGE" value="Thread sleep and synchronized keyword" />
+    <MESSAGE value="Thread executor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Thread executor" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
