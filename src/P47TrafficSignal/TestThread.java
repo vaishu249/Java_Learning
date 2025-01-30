@@ -10,6 +10,5 @@ public class TestThread {
         g.start();
         g.sleep(20000);
         y.start();
-
     }
 }
