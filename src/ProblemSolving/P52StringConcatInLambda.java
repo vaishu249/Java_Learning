@@ -9,3 +9,4 @@ public class P52StringConcatInLambda {
         System.out.println(result);
     }
 }
+//output: Good Girl The
