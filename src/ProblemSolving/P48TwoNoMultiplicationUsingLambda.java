@@ -8,3 +8,4 @@ public class P48TwoNoMultiplicationUsingLambda {
         System.out.println(mul.apply(10,20));
     }
 }
+// o/p :200
