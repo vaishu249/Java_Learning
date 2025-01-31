@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="Refactor">
-      <change afterPath="$PROJECT_DIR$/src/Learning/LambdaAndStream/FilterAndReduce.java" afterDir="false" />
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="stream and lambda expression">
+      <change afterPath="$PROJECT_DIR$/src/Learning/LambdaAndStream/FilterWithLambda.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -151,9 +151,22 @@
       <recent name="Learning.Multithreading" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FilterAndReduce">
+  <component name="RunManager" selected="Application.FilterWithLambda">
     <configuration name="FilterAndReduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Learning.LambdaAndStream.FilterAndReduce" />
+      <module name="Problem Solving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Learning.LambdaAndStream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FilterWithLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Learning.LambdaAndStream.FilterWithLambda" />
       <module name="Problem Solving" />
       <extension name="coverage">
         <pattern>
@@ -204,26 +217,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestThreadJoin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProblemSolving.P46ThreadJoin.TestThreadJoin" />
-      <module name="Problem Solving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ProblemSolving.P46ThreadJoin.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FilterWithLambda" />
         <item itemvalue="Application.FilterAndReduce" />
         <item itemvalue="Application.TestExecutorServiceWithMultipleThread" />
         <item itemvalue="Application.TestExecutorService" />
         <item itemvalue="Application.TestThread" />
-        <item itemvalue="Application.TestThreadJoin" />
       </list>
     </recent_temporary>
   </component>
@@ -235,14 +235,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00085" summary="1 1 1 1 1 1 1   &#10;2 2 2 2 2 2 2   &#10;3 3 3 3 3 3 3   &#10;4 4 4 4 4 4 4   &#10;5 5 5 5 5 5 5   &#10;6 6 6 6 6 6 6   &#10;7 7 7 7 7 7 7">
-      <option name="closed" value="true" />
-      <created>1737527934476</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1737527934476</updated>
     </task>
     <task id="LOCAL-00086" summary="Even Odd using ternary operator">
       <option name="closed" value="true" />
@@ -628,7 +620,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738333789841</updated>
     </task>
-    <option name="localTasksCounter" value="134" />
+    <task id="LOCAL-00134" summary="stream and lambda expression">
+      <option name="closed" value="true" />
+      <created>1738334768204</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1738334768205</updated>
+    </task>
+    <option name="localTasksCounter" value="135" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -643,7 +643,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="A &#10;B B &#10;C C C &#10;D D D D &#10;E E E E E" />
     <MESSAGE value="1 1 1 1 1 1 1   &#10;2 2 2 2 2 2 2   &#10;3 3 3 3 3 3 3   &#10;4 4 4 4 4 4 4   &#10;5 5 5 5 5 5 5   &#10;6 6 6 6 6 6 6   &#10;7 7 7 7 7 7 7" />
     <MESSAGE value="Even Odd using ternary operator" />
     <MESSAGE value="switch case from 12.0 version onwords" />
@@ -668,7 +667,8 @@
     <MESSAGE value="Thread executor" />
     <MESSAGE value="Thread executor multiple" />
     <MESSAGE value="Refactor" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactor" />
+    <MESSAGE value="stream and lambda expression" />
+    <option name="LAST_COMMIT_MESSAGE" value="stream and lambda expression" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
