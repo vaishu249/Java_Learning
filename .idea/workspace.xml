@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="Thread executor multiple" />
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="Refactor">
+      <change afterPath="$PROJECT_DIR$/src/Learning/LambdaAndStream/FilterAndReduce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +63,7 @@
     "Application.AvoidConcatination.executor": "Run",
     "Application.Eagle.executor": "Run",
     "Application.FileWriterExample.executor": "Run",
+    "Application.FilterAndReduce.executor": "Run",
     "Application.Learning.UpcastDowncast.Test.executor": "Run",
     "Application.LinkedListOfQueue.executor": "Run",
     "Application.MapCollectionFramework.executor": "Run",
@@ -147,13 +151,13 @@
       <recent name="Learning.Multithreading" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestExecutorServiceWithMultipleThread">
-    <configuration name="P45Thread.TestThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P45Thread.TestThread" />
+  <component name="RunManager" selected="Application.FilterAndReduce">
+    <configuration name="FilterAndReduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Learning.LambdaAndStream.FilterAndReduce" />
       <module name="Problem Solving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="P45Thread.*" />
+          <option name="PATTERN" value="Learning.LambdaAndStream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,11 +192,11 @@
       </method>
     </configuration>
     <configuration name="TestThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P47TrafficSignal.TestThread" />
+      <option name="MAIN_CLASS_NAME" value="ProblemSolving.P47TrafficSignal.TestThread" />
       <module name="Problem Solving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="P47TrafficSignal.*" />
+          <option name="PATTERN" value="ProblemSolving.P47TrafficSignal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,11 +205,11 @@
       </method>
     </configuration>
     <configuration name="TestThreadJoin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P46ThreadJoin.TestThreadJoin" />
+      <option name="MAIN_CLASS_NAME" value="ProblemSolving.P46ThreadJoin.TestThreadJoin" />
       <module name="Problem Solving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="P46ThreadJoin.*" />
+          <option name="PATTERN" value="ProblemSolving.P46ThreadJoin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,11 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FilterAndReduce" />
         <item itemvalue="Application.TestExecutorServiceWithMultipleThread" />
         <item itemvalue="Application.TestExecutorService" />
         <item itemvalue="Application.TestThread" />
         <item itemvalue="Application.TestThreadJoin" />
-        <item itemvalue="Application.P45Thread.TestThread" />
       </list>
     </recent_temporary>
   </component>
@@ -231,22 +235,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00083" summary="W                 W  &#10;   e           e     &#10;      l     l        &#10;         c           &#10;      o     o        &#10;   m           m     &#10;e                 e">
-      <option name="closed" value="true" />
-      <created>1737525763300</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1737525763300</updated>
-    </task>
-    <task id="LOCAL-00084" summary="A &#10;B B &#10;C C C &#10;D D D D &#10;E E E E E">
-      <option name="closed" value="true" />
-      <created>1737527740576</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1737527740576</updated>
     </task>
     <task id="LOCAL-00085" summary="1 1 1 1 1 1 1   &#10;2 2 2 2 2 2 2   &#10;3 3 3 3 3 3 3   &#10;4 4 4 4 4 4 4   &#10;5 5 5 5 5 5 5   &#10;6 6 6 6 6 6 6   &#10;7 7 7 7 7 7 7">
       <option name="closed" value="true" />
@@ -624,7 +612,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738261783833</updated>
     </task>
-    <option name="localTasksCounter" value="132" />
+    <task id="LOCAL-00132" summary="Thread executor multiple">
+      <option name="closed" value="true" />
+      <created>1738333579207</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1738333579208</updated>
+    </task>
+    <task id="LOCAL-00133" summary="Refactor">
+      <option name="closed" value="true" />
+      <created>1738333789841</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1738333789841</updated>
+    </task>
+    <option name="localTasksCounter" value="134" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -639,7 +643,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="W                 W  &#10;   e           e     &#10;      l     l        &#10;         c           &#10;      o     o        &#10;   m           m     &#10;e                 e" />
     <MESSAGE value="A &#10;B B &#10;C C C &#10;D D D D &#10;E E E E E" />
     <MESSAGE value="1 1 1 1 1 1 1   &#10;2 2 2 2 2 2 2   &#10;3 3 3 3 3 3 3   &#10;4 4 4 4 4 4 4   &#10;5 5 5 5 5 5 5   &#10;6 6 6 6 6 6 6   &#10;7 7 7 7 7 7 7" />
     <MESSAGE value="Even Odd using ternary operator" />
@@ -664,22 +667,23 @@
     <MESSAGE value="Thread sleep and synchronized keyword" />
     <MESSAGE value="Thread executor" />
     <MESSAGE value="Thread executor multiple" />
-    <option name="LAST_COMMIT_MESSAGE" value="Thread executor multiple" />
+    <MESSAGE value="Refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactor" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/P25SumOfAverageOfArray.java</url>
+          <url>file://$PROJECT_DIR$/src/ProblemSolving/P25SumOfAverageOfArray.java</url>
           <line>20</line>
-          <properties class="P25SumOfAverageOfArray" method="printingArrayElement">
+          <properties class="ProblemSolving.P25SumOfAverageOfArray">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/P26NoOfOcurance.java</url>
+          <url>file://$PROJECT_DIR$/src/ProblemSolving/P26NoOfOcurance.java</url>
           <line>2</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
