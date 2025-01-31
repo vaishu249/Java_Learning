@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="Lmbda using multiplication">
-      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/P49StringStreamUsingLambda.java" afterDir="false" />
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="string of list print in console">
+      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/P51OddNoUsingLambda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +107,9 @@
     "Application.P44SwitchCaseCalculator.executor": "Run",
     "Application.P45Thread.TestThread.executor": "Run",
     "Application.P48TwoNoMultiplicationUsingLambda.executor": "Run",
+    "Application.P49StringStreamUsingLambda.executor": "Run",
     "Application.P50TernaryOperatorStudentScore.executor": "Run",
+    "Application.P51OddNoUsingLambda.executor": "Run",
     "Application.Pattern_01.executor": "Run",
     "Application.Pattern_02.executor": "Run",
     "Application.Pattern_03.executor": "Run",
@@ -153,20 +156,7 @@
       <recent name="Learning.Multithreading" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P49StringStreamUsingLambda">
-    <configuration name="FilterAndReduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Learning.LambdaAndStream.FilterAndReduce" />
-      <module name="Problem Solving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Learning.LambdaAndStream.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P51OddNoUsingLambda">
     <configuration name="FilterWithLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Learning.LambdaAndStream.FilterWithLambda" />
       <module name="Problem Solving" />
@@ -206,6 +196,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P51OddNoUsingLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemSolving.P51OddNoUsingLambda" />
+      <module name="Problem Solving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProblemSolving.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReduceWithLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Learning.LambdaAndStream.ReduceWithLambda" />
       <module name="Problem Solving" />
@@ -221,11 +224,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P51OddNoUsingLambda" />
         <item itemvalue="Application.P49StringStreamUsingLambda" />
         <item itemvalue="Application.P48TwoNoMultiplicationUsingLambda" />
         <item itemvalue="Application.ReduceWithLambda" />
         <item itemvalue="Application.FilterWithLambda" />
-        <item itemvalue="Application.FilterAndReduce" />
       </list>
     </recent_temporary>
   </component>
@@ -237,30 +240,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00095" summary="Set collection">
-      <option name="closed" value="true" />
-      <created>1737636802436</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1737636802436</updated>
-    </task>
-    <task id="LOCAL-00096" summary="map">
-      <option name="closed" value="true" />
-      <created>1737641973314</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1737641973314</updated>
-    </task>
-    <task id="LOCAL-00097" summary="map changes">
-      <option name="closed" value="true" />
-      <created>1737642047704</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
-      <option name="project" value="LOCAL" />
-      <updated>1737642047704</updated>
     </task>
     <task id="LOCAL-00098" summary="map changes">
       <option name="closed" value="true" />
@@ -630,7 +609,31 @@
       <option name="project" value="LOCAL" />
       <updated>1738346153735</updated>
     </task>
-    <option name="localTasksCounter" value="144" />
+    <task id="LOCAL-00144" summary="string of list print in console">
+      <option name="closed" value="true" />
+      <created>1738346373659</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1738346373659</updated>
+    </task>
+    <task id="LOCAL-00145" summary="string of list print in console">
+      <option name="closed" value="true" />
+      <created>1738346398631</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1738346398631</updated>
+    </task>
+    <task id="LOCAL-00146" summary="string of list print in console">
+      <option name="closed" value="true" />
+      <created>1738346402641</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1738346402641</updated>
+    </task>
+    <option name="localTasksCounter" value="147" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -645,7 +648,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Collection List" />
     <MESSAGE value="Queue collection" />
     <MESSAGE value="Set collection" />
     <MESSAGE value="map" />
@@ -670,7 +672,8 @@
     <MESSAGE value="reduce with lambda" />
     <MESSAGE value="reduce with lambda and using filter as well" />
     <MESSAGE value="Lmbda using multiplication" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lmbda using multiplication" />
+    <MESSAGE value="string of list print in console" />
+    <option name="LAST_COMMIT_MESSAGE" value="string of list print in console" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
