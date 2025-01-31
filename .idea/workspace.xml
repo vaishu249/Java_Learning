@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="Student name whos name start with v">
-      <change afterPath="$PROJECT_DIR$/src/Learning/LambdaAndStream/ReduceWithLambda.java" afterDir="false" />
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="reduce with lambda and using filter as well">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,92 +56,92 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArrayList.executor": "Run",
-    "Application.AvoidConcatination.executor": "Run",
-    "Application.Eagle.executor": "Run",
-    "Application.FileWriterExample.executor": "Run",
-    "Application.FilterAndReduce.executor": "Run",
-    "Application.FilterWithLambda.executor": "Run",
-    "Application.Learning.UpcastDowncast.Test.executor": "Run",
-    "Application.LinkedListOfQueue.executor": "Run",
-    "Application.MapCollectionFramework.executor": "Run",
-    "Application.P05.executor": "Run",
-    "Application.P06.executor": "Run",
-    "Application.P07_Arithmatic_Operation.executor": "Run",
-    "Application.P08PerimeterOfRectangle.executor": "Run",
-    "Application.P09AreaOfTriangle.executor": "Run",
-    "Application.P10SimpleIntrest.executor": "Run",
-    "Application.P12CelciusConversion.executor": "Run",
-    "Application.P13NumberPositiveOrNegative.executor": "Run",
-    "Application.P14NumberEvenOrOdd.executor": "Run",
-    "Application.P15GreatestAmongThreeNo.executor": "Run",
-    "Application.P16GradeFinding.executor": "Run",
-    "Application.P18TablePrintUsingLoop.executor": "Run",
-    "Application.P19SumOfOddNumber.executor": "Run",
-    "Application.P20Factorial.executor": "Run",
-    "Application.P21SumOfDigit.executor": "Run",
-    "Application.P22ReverseNumber.executor": "Run",
-    "Application.P23FibonacciSeries.executor": "Run",
-    "Application.P24ArraySearchAnElement.executor": "Run",
-    "Application.P25SumOfAverageOfArray.executor": "Run",
-    "Application.P26NoOfOcurance.executor": "Run",
-    "Application.P27MaximumMinimunNoOfArray.executor": "Run",
-    "Application.P28ArraySortedOrNot.executor": "Run",
-    "Application.P30LibrarySystem.executor": "Run",
-    "Application.P31SearchEleIn2DArray.executor": "Run",
-    "Application.P32SumAndAverageOf2DArray.executor": "Run",
-    "Application.P33MergeTwoSortedArray.executor": "Run",
-    "Application.P34PlindromeArrayOrNot.executor": "Run",
-    "Application.P35ReverseArray.executor": "Run",
-    "Application.P36SmAndAverage.executor": "Run",
-    "Application.P37MinimumOfTwoNo.executor": "Run",
-    "Application.P38AbstractClass.Test.executor": "Run",
-    "Application.P39MethodOveriding_Calculator.executor": "Run",
-    "Application.P40MethodOveriding_Car.executor": "Run",
-    "Application.P41ExceptionHandling.executor": "Run",
-    "Application.P42EvenOddTerneryOpr.executor": "Run",
-    "Application.P43SwitchCaseMonths.executor": "Run",
-    "Application.P44SwitchCaseCalculator.executor": "Run",
-    "Application.P45Thread.TestThread.executor": "Run",
-    "Application.P50TernaryOperatorStudentScore.executor": "Run",
-    "Application.Pattern_01.executor": "Run",
-    "Application.Pattern_02.executor": "Run",
-    "Application.Pattern_03.executor": "Run",
-    "Application.Pattern_04.executor": "Run",
-    "Application.Pattern_05.executor": "Run",
-    "Application.Pattern_06.executor": "Run",
-    "Application.Pattern_07.executor": "Run",
-    "Application.Pattern_08.executor": "Run",
-    "Application.Pattern_09.executor": "Run",
-    "Application.Pattern_10.executor": "Run",
-    "Application.Pattern_11.executor": "Run",
-    "Application.Pattern_12.executor": "Run",
-    "Application.Pattern_13.executor": "Run",
-    "Application.Pattern_14.executor": "Run",
-    "Application.ReduceWithLambda.executor": "Run",
-    "Application.SetHashSet.executor": "Run",
-    "Application.Sum.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.TestDogNestedClass.executor": "Run",
-    "Application.TestExecutorService.executor": "Run",
-    "Application.TestExecutorServiceWithMultipleThread.executor": "Run",
-    "Application.TestRunnable.executor": "Run",
-    "Application.TestRunnableThreadPriority.executor": "Run",
-    "Application.TestThread.executor": "Run",
-    "Application.TestThreadJoin.executor": "Run",
-    "Application.constructor.executor": "Run",
-    "Application.mathClasses.executor": "Run",
-    "Application.rectangle.executor": "Run",
-    "Application.toStringMethod.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrayList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AvoidConcatination.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Eagle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileWriterExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FilterAndReduce.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FilterWithLambda.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Learning.UpcastDowncast.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedListOfQueue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MapCollectionFramework.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P06.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P07_Arithmatic_Operation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P08PerimeterOfRectangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P09AreaOfTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P10SimpleIntrest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P12CelciusConversion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P13NumberPositiveOrNegative.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P14NumberEvenOrOdd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P15GreatestAmongThreeNo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P16GradeFinding.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P18TablePrintUsingLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P19SumOfOddNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P20Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P21SumOfDigit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P22ReverseNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P23FibonacciSeries.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P24ArraySearchAnElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P25SumOfAverageOfArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P26NoOfOcurance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P27MaximumMinimunNoOfArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P28ArraySortedOrNot.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P30LibrarySystem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P31SearchEleIn2DArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P32SumAndAverageOf2DArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P33MergeTwoSortedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P34PlindromeArrayOrNot.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P35ReverseArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P36SmAndAverage.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P37MinimumOfTwoNo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P38AbstractClass.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P39MethodOveriding_Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P40MethodOveriding_Car.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P41ExceptionHandling.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P42EvenOddTerneryOpr.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P43SwitchCaseMonths.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P44SwitchCaseCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P45Thread.TestThread.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P50TernaryOperatorStudentScore.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern_01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern_02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern_03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern_04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern_05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern_06.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern_07.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern_08.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern_09.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern_10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern_11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern_12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern_13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern_14.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReduceWithLambda.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SetHashSet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestDogNestedClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestExecutorService.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestExecutorServiceWithMultipleThread.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestRunnable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestRunnableThreadPriority.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestThread.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestThreadJoin.executor&quot;: &quot;Run&quot;,
+    &quot;Application.constructor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.mathClasses.executor&quot;: &quot;Run&quot;,
+    &quot;Application.rectangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.toStringMethod.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="PatternSolving" />
@@ -237,22 +236,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00089" summary="switch of calculator">
-      <option name="closed" value="true" />
-      <created>1737567336458</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1737567336458</updated>
-    </task>
-    <task id="LOCAL-00090" summary="Collection List">
-      <option name="closed" value="true" />
-      <created>1737622546213</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1737622546214</updated>
     </task>
     <task id="LOCAL-00091" summary="Collection List">
       <option name="closed" value="true" />
@@ -630,7 +613,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738338120287</updated>
     </task>
-    <option name="localTasksCounter" value="138" />
+    <task id="LOCAL-00138" summary="reduce with lambda">
+      <option name="closed" value="true" />
+      <created>1738338720904</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1738338720905</updated>
+    </task>
+    <task id="LOCAL-00139" summary="reduce with lambda and using filter as well">
+      <option name="closed" value="true" />
+      <created>1738338987428</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1738338987428</updated>
+    </task>
+    <option name="localTasksCounter" value="140" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -645,8 +644,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Even Odd using ternary operator" />
-    <MESSAGE value="switch case from 12.0 version onwords" />
     <MESSAGE value="switch of calculator" />
     <MESSAGE value="Collection List" />
     <MESSAGE value="Queue collection" />
@@ -670,7 +667,9 @@
     <MESSAGE value="Refactor" />
     <MESSAGE value="stream and lambda expression" />
     <MESSAGE value="Student name whos name start with v" />
-    <option name="LAST_COMMIT_MESSAGE" value="Student name whos name start with v" />
+    <MESSAGE value="reduce with lambda" />
+    <MESSAGE value="reduce with lambda and using filter as well" />
+    <option name="LAST_COMMIT_MESSAGE" value="reduce with lambda and using filter as well" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
