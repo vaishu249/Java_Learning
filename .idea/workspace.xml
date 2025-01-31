@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="string of list print in console">
-      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/P51OddNoUsingLambda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="Odd Value From list Of String">
+      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/P52StringConcatInLambda.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,20 +155,7 @@
       <recent name="Learning.Multithreading" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P51OddNoUsingLambda">
-    <configuration name="FilterWithLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Learning.LambdaAndStream.FilterWithLambda" />
-      <module name="Problem Solving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Learning.LambdaAndStream.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P52StringConcatInLambda">
     <configuration name="P48TwoNoMultiplicationUsingLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProblemSolving.P48TwoNoMultiplicationUsingLambda" />
       <module name="Problem Solving" />
@@ -209,6 +195,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P52StringConcatInLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemSolving.P52StringConcatInLambda" />
+      <module name="Problem Solving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProblemSolving.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReduceWithLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Learning.LambdaAndStream.ReduceWithLambda" />
       <module name="Problem Solving" />
@@ -224,11 +223,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P52StringConcatInLambda" />
         <item itemvalue="Application.P51OddNoUsingLambda" />
         <item itemvalue="Application.P49StringStreamUsingLambda" />
         <item itemvalue="Application.P48TwoNoMultiplicationUsingLambda" />
         <item itemvalue="Application.ReduceWithLambda" />
-        <item itemvalue="Application.FilterWithLambda" />
       </list>
     </recent_temporary>
   </component>
@@ -240,22 +239,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00098" summary="map changes">
-      <option name="closed" value="true" />
-      <created>1737643646022</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1737643646022</updated>
-    </task>
-    <task id="LOCAL-00099" summary="map changes">
-      <option name="closed" value="true" />
-      <created>1737648293985</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1737648293985</updated>
     </task>
     <task id="LOCAL-00100" summary="map changes">
       <option name="closed" value="true" />
@@ -633,7 +616,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738346402641</updated>
     </task>
-    <option name="localTasksCounter" value="147" />
+    <task id="LOCAL-00147" summary="Odd Value From list Of String">
+      <option name="closed" value="true" />
+      <created>1738346803964</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1738346803964</updated>
+    </task>
+    <task id="LOCAL-00148" summary="Odd Value From list Of String">
+      <option name="closed" value="true" />
+      <created>1738346823788</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1738346823788</updated>
+    </task>
+    <option name="localTasksCounter" value="149" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -648,7 +647,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Queue collection" />
     <MESSAGE value="Set collection" />
     <MESSAGE value="map" />
     <MESSAGE value="map changes" />
@@ -673,7 +671,8 @@
     <MESSAGE value="reduce with lambda and using filter as well" />
     <MESSAGE value="Lmbda using multiplication" />
     <MESSAGE value="string of list print in console" />
-    <option name="LAST_COMMIT_MESSAGE" value="string of list print in console" />
+    <MESSAGE value="Odd Value From list Of String" />
+    <option name="LAST_COMMIT_MESSAGE" value="Odd Value From list Of String" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
