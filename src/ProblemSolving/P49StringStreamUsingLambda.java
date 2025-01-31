@@ -6,5 +6,10 @@ public class P49StringStreamUsingLambda {
     public static void main(String[] args) {
         List<String> name=List.of("XYZ","ABC","PQR","LMN","TUV");
         name.stream().forEach(data-> System.out.println(data));
+        //output: XYZ
+        //ABC
+        //PQR
+        //LMN
+        //TUV
     }
 }
