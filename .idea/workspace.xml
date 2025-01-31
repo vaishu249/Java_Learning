@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="Thread executor">
-      <change afterPath="$PROJECT_DIR$/src/Learning/ExecutorService/MultipleThreadForPoolOfTHREAD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learning/ExecutorService/TestExecutorServiceWithMultipleThread.java" afterDir="false" />
-    </list>
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="Thread executor multiple" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -234,14 +231,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00082" summary="x x x x x x x x x x &#10;9 9 9 9 9 9 9 9 9 9 &#10;x x x x x x x x x x &#10;7 7 7 7 7 7 7 7 7 7 &#10;x x x x x x x x x x">
-      <option name="closed" value="true" />
-      <created>1737524514832</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1737524514834</updated>
     </task>
     <task id="LOCAL-00083" summary="W                 W  &#10;   e           e     &#10;      l     l        &#10;         c           &#10;      o     o        &#10;   m           m     &#10;e                 e">
       <option name="closed" value="true" />
@@ -627,7 +616,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738261155371</updated>
     </task>
-    <option name="localTasksCounter" value="131" />
+    <task id="LOCAL-00131" summary="Thread executor multiple">
+      <option name="closed" value="true" />
+      <created>1738261783833</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1738261783833</updated>
+    </task>
+    <option name="localTasksCounter" value="132" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -642,7 +639,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="x x x x x x x x x x &#10;9 9 9 9 9 9 9 9 9 9 &#10;x x x x x x x x x x &#10;7 7 7 7 7 7 7 7 7 7 &#10;x x x x x x x x x x" />
     <MESSAGE value="W                 W  &#10;   e           e     &#10;      l     l        &#10;         c           &#10;      o     o        &#10;   m           m     &#10;e                 e" />
     <MESSAGE value="A &#10;B B &#10;C C C &#10;D D D D &#10;E E E E E" />
     <MESSAGE value="1 1 1 1 1 1 1   &#10;2 2 2 2 2 2 2   &#10;3 3 3 3 3 3 3   &#10;4 4 4 4 4 4 4   &#10;5 5 5 5 5 5 5   &#10;6 6 6 6 6 6 6   &#10;7 7 7 7 7 7 7" />
@@ -667,7 +663,8 @@
     <MESSAGE value="Thraed problem with join" />
     <MESSAGE value="Thread sleep and synchronized keyword" />
     <MESSAGE value="Thread executor" />
-    <option name="LAST_COMMIT_MESSAGE" value="Thread executor" />
+    <MESSAGE value="Thread executor multiple" />
+    <option name="LAST_COMMIT_MESSAGE" value="Thread executor multiple" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
