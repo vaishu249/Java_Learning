@@ -234,14 +234,6 @@
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
     </task>
-    <task id="LOCAL-00087" summary="switch case from 12.0 version onwords">
-      <option name="closed" value="true" />
-      <created>1737565309185</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1737565309185</updated>
-    </task>
     <task id="LOCAL-00088" summary="switch of calculator">
       <option name="closed" value="true" />
       <created>1737566660614</created>
@@ -626,7 +618,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738335939280</updated>
     </task>
-    <option name="localTasksCounter" value="136" />
+    <task id="LOCAL-00136" summary="Student name whos name start with v">
+      <option name="closed" value="true" />
+      <created>1738336115978</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1738336115978</updated>
+    </task>
+    <option name="localTasksCounter" value="137" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
