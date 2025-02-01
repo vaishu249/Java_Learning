@@ -13,5 +13,6 @@ public class TestOwnFunctionalInterface {
         };
         System.out.println(candidate.isCandidate(12));
         System.out.println(candidate.isCandidate(7));
+        System.out.println(candidate.isCandidate(10));
     }
 }
