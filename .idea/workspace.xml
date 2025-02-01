@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="Test Own interface">
-      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/P54FactorialWith2Ways/FactorialTwoWay.java" afterDir="false" />
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="normal way of factorial">
+      <change beforePath="$PROJECT_DIR$/src/ProblemSolving/P54FactorialWith2Ways/FactorialTwoWay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolving/P54FactorialWith2Ways/FactorialTwoWay.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +61,7 @@
     "Application.ArrayList.executor": "Run",
     "Application.AvoidConcatination.executor": "Run",
     "Application.Eagle.executor": "Run",
+    "Application.FactorialTwoWay.executor": "Run",
     "Application.FileWriterExample.executor": "Run",
     "Application.FilterAndReduce.executor": "Run",
     "Application.FilterWithLambda.executor": "Run",
@@ -242,22 +243,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00113" summary="half pattern logic">
-      <option name="closed" value="true" />
-      <created>1737981950298</created>
-      <option name="number" value="00113" />
-      <option name="presentableId" value="LOCAL-00113" />
-      <option name="project" value="LOCAL" />
-      <updated>1737981950299</updated>
-    </task>
-    <task id="LOCAL-00114" summary="Multithreading using Runnable Interface">
-      <option name="closed" value="true" />
-      <created>1737990499960</created>
-      <option name="number" value="00114" />
-      <option name="presentableId" value="LOCAL-00114" />
-      <option name="project" value="LOCAL" />
-      <updated>1737990499961</updated>
     </task>
     <task id="LOCAL-00115" summary="Multithreading using Runnable Interface">
       <option name="closed" value="true" />
@@ -635,7 +620,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738394647415</updated>
     </task>
-    <option name="localTasksCounter" value="162" />
+    <task id="LOCAL-00162" summary="normal way of factorial">
+      <option name="closed" value="true" />
+      <created>1738395160539</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1738395160539</updated>
+    </task>
+    <task id="LOCAL-00163" summary="normal way of factorial">
+      <option name="closed" value="true" />
+      <created>1738395163912</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
+      <option name="project" value="LOCAL" />
+      <updated>1738395163912</updated>
+    </task>
+    <option name="localTasksCounter" value="164" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -650,7 +651,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="half" />
     <MESSAGE value="Ternary operator use score card" />
     <MESSAGE value="Thread implementing using thread class" />
     <MESSAGE value="half pattern logic" />
@@ -675,7 +675,8 @@
     <MESSAGE value="Method Refrences with integer class" />
     <MESSAGE value="Interface own" />
     <MESSAGE value="Test Own interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test Own interface" />
+    <MESSAGE value="normal way of factorial" />
+    <option name="LAST_COMMIT_MESSAGE" value="normal way of factorial" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
