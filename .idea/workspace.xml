@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="optional class">
-      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/P55OptionalClass/P56DistinctInArrayStream.java" afterDir="false" />
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="refactor">
+      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/P57EmployeeNameSalarySortUsingSalary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,11 +190,11 @@
       </method>
     </configuration>
     <configuration name="P56DistinctInArrayStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProblemSolving.P55OptionalClass.P56DistinctInArrayStream" />
+      <option name="MAIN_CLASS_NAME" value="ProblemSolving.P56DistinctInArrayStream" />
       <module name="Problem Solving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProblemSolving.P55OptionalClass.*" />
+          <option name="PATTERN" value="ProblemSolving.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,7 +207,7 @@
       <module name="Problem Solving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProblemSolving.P55OptionalClass.*" />
+          <option name="PATTERN" value="ProblemSolving.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -245,30 +246,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00119" summary="Thread Priority">
-      <option name="closed" value="true" />
-      <created>1738075322497</created>
-      <option name="number" value="00119" />
-      <option name="presentableId" value="LOCAL-00119" />
-      <option name="project" value="LOCAL" />
-      <updated>1738075322497</updated>
-    </task>
-    <task id="LOCAL-00120" summary="Thread join">
-      <option name="closed" value="true" />
-      <created>1738077550751</created>
-      <option name="number" value="00120" />
-      <option name="presentableId" value="LOCAL-00120" />
-      <option name="project" value="LOCAL" />
-      <updated>1738077550751</updated>
-    </task>
-    <task id="LOCAL-00121" summary="Thread join">
-      <option name="closed" value="true" />
-      <created>1738082503426</created>
-      <option name="number" value="00121" />
-      <option name="presentableId" value="LOCAL-00121" />
-      <option name="project" value="LOCAL" />
-      <updated>1738082503426</updated>
     </task>
     <task id="LOCAL-00122" summary="Thread join">
       <option name="closed" value="true" />
@@ -638,7 +615,31 @@
       <option name="project" value="LOCAL" />
       <updated>1738395818402</updated>
     </task>
-    <option name="localTasksCounter" value="168" />
+    <task id="LOCAL-00168" summary="Old list : [10, 1, 1, 10, 2, 4, 5, 4, 5, 6, 78, 8]&#10;New List : [10, 1, 2, 4, 5, 6, 78, 8]">
+      <option name="closed" value="true" />
+      <created>1738398740555</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1738398740555</updated>
+    </task>
+    <task id="LOCAL-00169" summary="Old list : [10, 1, 1, 10, 2, 4, 5, 4, 5, 6, 78, 8]&#10;New List : [10, 1, 2, 4, 5, 6, 78, 8]">
+      <option name="closed" value="true" />
+      <created>1738398745062</created>
+      <option name="number" value="00169" />
+      <option name="presentableId" value="LOCAL-00169" />
+      <option name="project" value="LOCAL" />
+      <updated>1738398745062</updated>
+    </task>
+    <task id="LOCAL-00170" summary="refactor">
+      <option name="closed" value="true" />
+      <created>1738398837577</created>
+      <option name="number" value="00170" />
+      <option name="presentableId" value="LOCAL-00170" />
+      <option name="project" value="LOCAL" />
+      <updated>1738398837577</updated>
+    </task>
+    <option name="localTasksCounter" value="171" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -653,8 +654,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="half pattern logic" />
-    <MESSAGE value="Multithreading using Runnable Interface" />
     <MESSAGE value="Thread Priority" />
     <MESSAGE value="Thread join" />
     <MESSAGE value="Thraed problem" />
@@ -678,7 +677,9 @@
     <MESSAGE value="normal way of factorial" />
     <MESSAGE value="Functional Programing way of factorial" />
     <MESSAGE value="optional class" />
-    <option name="LAST_COMMIT_MESSAGE" value="optional class" />
+    <MESSAGE value="Old list : [10, 1, 1, 10, 2, 4, 5, 4, 5, 6, 78, 8]&#10;New List : [10, 1, 2, 4, 5, 6, 78, 8]" />
+    <MESSAGE value="refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
