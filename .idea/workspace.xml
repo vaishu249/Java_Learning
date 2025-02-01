@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="Odd Value From list Of String">
-      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/P52StringConcatInLambda.java" afterDir="false" />
-    </list>
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="String concatination" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,6 +107,7 @@
     "Application.P49StringStreamUsingLambda.executor": "Run",
     "Application.P50TernaryOperatorStudentScore.executor": "Run",
     "Application.P51OddNoUsingLambda.executor": "Run",
+    "Application.P52StringConcatInLambda.executor": "Run",
     "Application.Pattern_01.executor": "Run",
     "Application.Pattern_02.executor": "Run",
     "Application.Pattern_03.executor": "Run",
@@ -239,30 +238,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00100" summary="map changes">
-      <option name="closed" value="true" />
-      <created>1737648535493</created>
-      <option name="number" value="00100" />
-      <option name="presentableId" value="LOCAL-00100" />
-      <option name="project" value="LOCAL" />
-      <updated>1737648535493</updated>
-    </task>
-    <task id="LOCAL-00101" summary="map changes">
-      <option name="closed" value="true" />
-      <created>1737653827099</created>
-      <option name="number" value="00101" />
-      <option name="presentableId" value="LOCAL-00101" />
-      <option name="project" value="LOCAL" />
-      <updated>1737653827099</updated>
-    </task>
-    <task id="LOCAL-00102" summary="minar">
-      <option name="closed" value="true" />
-      <created>1737740204539</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1737740204540</updated>
     </task>
     <task id="LOCAL-00103" summary="* * * * * &#10;*       * &#10;* * *   * &#10;*   *   * &#10;* * * * *">
       <option name="closed" value="true" />
@@ -632,7 +607,31 @@
       <option name="project" value="LOCAL" />
       <updated>1738346823788</updated>
     </task>
-    <option name="localTasksCounter" value="149" />
+    <task id="LOCAL-00149" summary="String concatination">
+      <option name="closed" value="true" />
+      <created>1738347240854</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1738347240854</updated>
+    </task>
+    <task id="LOCAL-00150" summary="String concatination">
+      <option name="closed" value="true" />
+      <created>1738347263319</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1738347263319</updated>
+    </task>
+    <task id="LOCAL-00151" summary="String concatination">
+      <option name="closed" value="true" />
+      <created>1738347359570</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1738347359570</updated>
+    </task>
+    <option name="localTasksCounter" value="152" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -647,7 +646,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Set collection" />
     <MESSAGE value="map" />
     <MESSAGE value="map changes" />
     <MESSAGE value="minar" />
@@ -672,7 +670,8 @@
     <MESSAGE value="Lmbda using multiplication" />
     <MESSAGE value="string of list print in console" />
     <MESSAGE value="Odd Value From list Of String" />
-    <option name="LAST_COMMIT_MESSAGE" value="Odd Value From list Of String" />
+    <MESSAGE value="String concatination" />
+    <option name="LAST_COMMIT_MESSAGE" value="String concatination" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
