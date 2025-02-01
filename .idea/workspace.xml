@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="refactor">
-      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/P57EmployeeNameSalarySortUsingSalary.java" afterDir="false" />
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="employee detail constructor and get seeter">
+      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/P57EmployeeSalaryName/TestAndSortUsingSalary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -162,26 +162,13 @@
       <recent name="Learning.Multithreading" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P56DistinctInArrayStream">
+  <component name="RunManager" selected="Application.TestAndSortUsingSalary">
     <configuration name="FactorialTwoWay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProblemSolving.P54FactorialWith2Ways.FactorialTwoWay" />
       <module name="Problem Solving" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ProblemSolving.P54FactorialWith2Ways.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MethodRefrence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Learning.LambdaAndStream.MethodRefrence" />
-      <module name="Problem Solving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Learning.LambdaAndStream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,6 +202,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestAndSortUsingSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemSolving.P57EmployeeSalaryName.TestAndSortUsingSalary" />
+      <module name="Problem Solving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProblemSolving.P57EmployeeSalaryName.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestOwnFunctionalInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProblemSolving.P53PrimeOrNotUsingOwnFunctionalInterface.TestOwnFunctionalInterface" />
       <module name="Problem Solving" />
@@ -230,11 +230,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestAndSortUsingSalary" />
         <item itemvalue="Application.P56DistinctInArrayStream" />
         <item itemvalue="Application.StringEmptyOrNotUsingOptionalClass" />
         <item itemvalue="Application.FactorialTwoWay" />
         <item itemvalue="Application.TestOwnFunctionalInterface" />
-        <item itemvalue="Application.MethodRefrence" />
       </list>
     </recent_temporary>
   </component>
@@ -246,22 +246,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00122" summary="Thread join">
-      <option name="closed" value="true" />
-      <created>1738085908525</created>
-      <option name="number" value="00122" />
-      <option name="presentableId" value="LOCAL-00122" />
-      <option name="project" value="LOCAL" />
-      <updated>1738085908525</updated>
-    </task>
-    <task id="LOCAL-00123" summary="Thread join">
-      <option name="closed" value="true" />
-      <created>1738163143248</created>
-      <option name="number" value="00123" />
-      <option name="presentableId" value="LOCAL-00123" />
-      <option name="project" value="LOCAL" />
-      <updated>1738163143249</updated>
     </task>
     <task id="LOCAL-00124" summary="Thraed problem">
       <option name="closed" value="true" />
@@ -639,7 +623,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738398837577</updated>
     </task>
-    <option name="localTasksCounter" value="171" />
+    <task id="LOCAL-00171" summary="employee detail constructor and get seeter">
+      <option name="closed" value="true" />
+      <created>1738399733668</created>
+      <option name="number" value="00171" />
+      <option name="presentableId" value="LOCAL-00171" />
+      <option name="project" value="LOCAL" />
+      <updated>1738399733668</updated>
+    </task>
+    <task id="LOCAL-00172" summary="employee detail constructor and get seeter">
+      <option name="closed" value="true" />
+      <created>1738399737867</created>
+      <option name="number" value="00172" />
+      <option name="presentableId" value="LOCAL-00172" />
+      <option name="project" value="LOCAL" />
+      <updated>1738399737867</updated>
+    </task>
+    <option name="localTasksCounter" value="173" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -654,7 +654,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Thread Priority" />
     <MESSAGE value="Thread join" />
     <MESSAGE value="Thraed problem" />
     <MESSAGE value="Thraed problem with join" />
@@ -679,7 +678,8 @@
     <MESSAGE value="optional class" />
     <MESSAGE value="Old list : [10, 1, 1, 10, 2, 4, 5, 4, 5, 6, 78, 8]&#10;New List : [10, 1, 2, 4, 5, 6, 78, 8]" />
     <MESSAGE value="refactor" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor" />
+    <MESSAGE value="employee detail constructor and get seeter" />
+    <option name="LAST_COMMIT_MESSAGE" value="employee detail constructor and get seeter" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
