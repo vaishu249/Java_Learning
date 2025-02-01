@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="Method Refrences with integer class">
-      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/P53PrimeOrNotUsingOwnFunctionalInterface/Candidate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/P53PrimeOrNotUsingOwnFunctionalInterface/TestOwnFunctionalInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="Test Own interface">
+      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/P54FactorialWith2Ways/FactorialTwoWay.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,13 +158,13 @@
       <recent name="Learning.Multithreading" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestOwnFunctionalInterface">
-    <configuration name="MethodRefrence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Learning.LambdaAndStream.MethodRefrence" />
+  <component name="RunManager" selected="Application.FactorialTwoWay">
+    <configuration name="FactorialTwoWay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemSolving.P54FactorialWith2Ways.FactorialTwoWay" />
       <module name="Problem Solving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Learning.LambdaAndStream.*" />
+          <option name="PATTERN" value="ProblemSolving.P54FactorialWith2Ways.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,12 +172,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P49StringStreamUsingLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProblemSolving.P49StringStreamUsingLambda" />
+    <configuration name="MethodRefrence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Learning.LambdaAndStream.MethodRefrence" />
       <module name="Problem Solving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProblemSolving.*" />
+          <option name="PATTERN" value="Learning.LambdaAndStream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,11 +226,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FactorialTwoWay" />
         <item itemvalue="Application.TestOwnFunctionalInterface" />
         <item itemvalue="Application.MethodRefrence" />
         <item itemvalue="Application.P52StringConcatInLambda" />
         <item itemvalue="Application.P51OddNoUsingLambda" />
-        <item itemvalue="Application.P49StringStreamUsingLambda" />
       </list>
     </recent_temporary>
   </component>
@@ -244,38 +242,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00109" summary="Ternary operator use score card">
-      <option name="closed" value="true" />
-      <created>1737910525239</created>
-      <option name="number" value="00109" />
-      <option name="presentableId" value="LOCAL-00109" />
-      <option name="project" value="LOCAL" />
-      <updated>1737910525240</updated>
-    </task>
-    <task id="LOCAL-00110" summary="Ternary operator use score card">
-      <option name="closed" value="true" />
-      <created>1737912768843</created>
-      <option name="number" value="00110" />
-      <option name="presentableId" value="LOCAL-00110" />
-      <option name="project" value="LOCAL" />
-      <updated>1737912768843</updated>
-    </task>
-    <task id="LOCAL-00111" summary="Ternary operator use score card">
-      <option name="closed" value="true" />
-      <created>1737980045979</created>
-      <option name="number" value="00111" />
-      <option name="presentableId" value="LOCAL-00111" />
-      <option name="project" value="LOCAL" />
-      <updated>1737980045980</updated>
-    </task>
-    <task id="LOCAL-00112" summary="Thread implementing using thread class">
-      <option name="closed" value="true" />
-      <created>1737980596467</created>
-      <option name="number" value="00112" />
-      <option name="presentableId" value="LOCAL-00112" />
-      <option name="project" value="LOCAL" />
-      <updated>1737980596467</updated>
     </task>
     <task id="LOCAL-00113" summary="half pattern logic">
       <option name="closed" value="true" />
@@ -637,7 +603,39 @@
       <option name="project" value="LOCAL" />
       <updated>1738393507591</updated>
     </task>
-    <option name="localTasksCounter" value="158" />
+    <task id="LOCAL-00158" summary="Interface own">
+      <option name="closed" value="true" />
+      <created>1738394607825</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1738394607825</updated>
+    </task>
+    <task id="LOCAL-00159" summary="Test Own interface">
+      <option name="closed" value="true" />
+      <created>1738394624600</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
+      <option name="project" value="LOCAL" />
+      <updated>1738394624600</updated>
+    </task>
+    <task id="LOCAL-00160" summary="Test Own interface">
+      <option name="closed" value="true" />
+      <created>1738394628320</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1738394628320</updated>
+    </task>
+    <task id="LOCAL-00161" summary="Test Own interface">
+      <option name="closed" value="true" />
+      <created>1738394647415</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1738394647415</updated>
+    </task>
+    <option name="localTasksCounter" value="162" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -652,8 +650,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="minar" />
-    <MESSAGE value="* * * * * &#10;*       * &#10;* * *   * &#10;*   *   * &#10;* * * * *" />
     <MESSAGE value="half" />
     <MESSAGE value="Ternary operator use score card" />
     <MESSAGE value="Thread implementing using thread class" />
@@ -677,7 +673,9 @@
     <MESSAGE value="String concatination" />
     <MESSAGE value="Method Refrences" />
     <MESSAGE value="Method Refrences with integer class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Method Refrences with integer class" />
+    <MESSAGE value="Interface own" />
+    <MESSAGE value="Test Own interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test Own interface" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
