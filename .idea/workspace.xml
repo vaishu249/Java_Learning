@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="employee detail constructor and get seeter">
-      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/P57EmployeeSalaryName/TestAndSortUsingSalary.java" afterDir="false" />
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="create to string method">
+      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/P58CovertStringToIntAndSquare.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -114,6 +114,7 @@
     "Application.P51OddNoUsingLambda.executor": "Run",
     "Application.P52StringConcatInLambda.executor": "Run",
     "Application.P56DistinctInArrayStream.executor": "Run",
+    "Application.P58CovertStringToIntAndSquare.executor": "Run",
     "Application.Pattern_01.executor": "Run",
     "Application.Pattern_02.executor": "Run",
     "Application.Pattern_03.executor": "Run",
@@ -133,6 +134,7 @@
     "Application.StringEmptyOrNotUsingOptionalClass.executor": "Run",
     "Application.Sum.executor": "Run",
     "Application.Test.executor": "Run",
+    "Application.TestAndSortUsingSalary.executor": "Run",
     "Application.TestDogNestedClass.executor": "Run",
     "Application.TestExecutorService.executor": "Run",
     "Application.TestExecutorServiceWithMultipleThread.executor": "Run",
@@ -162,7 +164,7 @@
       <recent name="Learning.Multithreading" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestAndSortUsingSalary">
+  <component name="RunManager" selected="Application.P58CovertStringToIntAndSquare">
     <configuration name="FactorialTwoWay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProblemSolving.P54FactorialWith2Ways.FactorialTwoWay" />
       <module name="Problem Solving" />
@@ -178,6 +180,19 @@
     </configuration>
     <configuration name="P56DistinctInArrayStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProblemSolving.P56DistinctInArrayStream" />
+      <module name="Problem Solving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProblemSolving.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P58CovertStringToIntAndSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemSolving.P58CovertStringToIntAndSquare" />
       <module name="Problem Solving" />
       <extension name="coverage">
         <pattern>
@@ -215,26 +230,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestOwnFunctionalInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProblemSolving.P53PrimeOrNotUsingOwnFunctionalInterface.TestOwnFunctionalInterface" />
-      <module name="Problem Solving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ProblemSolving.P53PrimeOrNotUsingOwnFunctionalInterface.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P58CovertStringToIntAndSquare" />
         <item itemvalue="Application.TestAndSortUsingSalary" />
         <item itemvalue="Application.P56DistinctInArrayStream" />
         <item itemvalue="Application.StringEmptyOrNotUsingOptionalClass" />
         <item itemvalue="Application.FactorialTwoWay" />
-        <item itemvalue="Application.TestOwnFunctionalInterface" />
       </list>
     </recent_temporary>
   </component>
@@ -246,30 +248,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00124" summary="Thraed problem">
-      <option name="closed" value="true" />
-      <created>1738163729404</created>
-      <option name="number" value="00124" />
-      <option name="presentableId" value="LOCAL-00124" />
-      <option name="project" value="LOCAL" />
-      <updated>1738163729405</updated>
-    </task>
-    <task id="LOCAL-00125" summary="Thraed problem with join">
-      <option name="closed" value="true" />
-      <created>1738164140411</created>
-      <option name="number" value="00125" />
-      <option name="presentableId" value="LOCAL-00125" />
-      <option name="project" value="LOCAL" />
-      <updated>1738164140411</updated>
-    </task>
-    <task id="LOCAL-00126" summary="Thread sleep and synchronized keyword">
-      <option name="closed" value="true" />
-      <created>1738166445298</created>
-      <option name="number" value="00126" />
-      <option name="presentableId" value="LOCAL-00126" />
-      <option name="project" value="LOCAL" />
-      <updated>1738166445298</updated>
     </task>
     <task id="LOCAL-00127" summary="Thread sleep and synchronized keyword">
       <option name="closed" value="true" />
@@ -639,7 +617,31 @@
       <option name="project" value="LOCAL" />
       <updated>1738399737867</updated>
     </task>
-    <option name="localTasksCounter" value="173" />
+    <task id="LOCAL-00173" summary="sort employee detail using salary">
+      <option name="closed" value="true" />
+      <created>1738400434594</created>
+      <option name="number" value="00173" />
+      <option name="presentableId" value="LOCAL-00173" />
+      <option name="project" value="LOCAL" />
+      <updated>1738400434594</updated>
+    </task>
+    <task id="LOCAL-00174" summary="create to string method">
+      <option name="closed" value="true" />
+      <created>1738400452235</created>
+      <option name="number" value="00174" />
+      <option name="presentableId" value="LOCAL-00174" />
+      <option name="project" value="LOCAL" />
+      <updated>1738400452235</updated>
+    </task>
+    <task id="LOCAL-00175" summary="create to string method">
+      <option name="closed" value="true" />
+      <created>1738400457130</created>
+      <option name="number" value="00175" />
+      <option name="presentableId" value="LOCAL-00175" />
+      <option name="project" value="LOCAL" />
+      <updated>1738400457130</updated>
+    </task>
+    <option name="localTasksCounter" value="176" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -654,8 +656,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Thread join" />
-    <MESSAGE value="Thraed problem" />
     <MESSAGE value="Thraed problem with join" />
     <MESSAGE value="Thread sleep and synchronized keyword" />
     <MESSAGE value="Thread executor" />
@@ -679,7 +679,9 @@
     <MESSAGE value="Old list : [10, 1, 1, 10, 2, 4, 5, 4, 5, 6, 78, 8]&#10;New List : [10, 1, 2, 4, 5, 6, 78, 8]" />
     <MESSAGE value="refactor" />
     <MESSAGE value="employee detail constructor and get seeter" />
-    <option name="LAST_COMMIT_MESSAGE" value="employee detail constructor and get seeter" />
+    <MESSAGE value="sort employee detail using salary" />
+    <MESSAGE value="create to string method" />
+    <option name="LAST_COMMIT_MESSAGE" value="create to string method" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
