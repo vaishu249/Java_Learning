@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="normal way of factorial">
-      <change beforePath="$PROJECT_DIR$/src/ProblemSolving/P54FactorialWith2Ways/FactorialTwoWay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolving/P54FactorialWith2Ways/FactorialTwoWay.java" afterDir="false" />
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="Functional Programing way of factorial">
+      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/P55OptionalClass/StringEmptyOrNotUsingOptionalClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,7 +159,7 @@
       <recent name="Learning.Multithreading" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FactorialTwoWay">
+  <component name="RunManager" selected="Application.StringEmptyOrNotUsingOptionalClass">
     <configuration name="FactorialTwoWay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProblemSolving.P54FactorialWith2Ways.FactorialTwoWay" />
       <module name="Problem Solving" />
@@ -186,8 +186,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P51OddNoUsingLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProblemSolving.P51OddNoUsingLambda" />
+    <configuration name="P52StringConcatInLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemSolving.P52StringConcatInLambda" />
       <module name="Problem Solving" />
       <extension name="coverage">
         <pattern>
@@ -199,12 +199,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P52StringConcatInLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProblemSolving.P52StringConcatInLambda" />
+    <configuration name="StringEmptyOrNotUsingOptionalClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemSolving.P55OptionalClass.StringEmptyOrNotUsingOptionalClass" />
       <module name="Problem Solving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProblemSolving.*" />
+          <option name="PATTERN" value="ProblemSolving.P55OptionalClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,11 +227,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringEmptyOrNotUsingOptionalClass" />
         <item itemvalue="Application.FactorialTwoWay" />
         <item itemvalue="Application.TestOwnFunctionalInterface" />
         <item itemvalue="Application.MethodRefrence" />
         <item itemvalue="Application.P52StringConcatInLambda" />
-        <item itemvalue="Application.P51OddNoUsingLambda" />
       </list>
     </recent_temporary>
   </component>
@@ -243,22 +243,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00115" summary="Multithreading using Runnable Interface">
-      <option name="closed" value="true" />
-      <created>1737990655599</created>
-      <option name="number" value="00115" />
-      <option name="presentableId" value="LOCAL-00115" />
-      <option name="project" value="LOCAL" />
-      <updated>1737990655599</updated>
-    </task>
-    <task id="LOCAL-00116" summary="Multithreading using Runnable Interface">
-      <option name="closed" value="true" />
-      <created>1737997333443</created>
-      <option name="number" value="00116" />
-      <option name="presentableId" value="LOCAL-00116" />
-      <option name="project" value="LOCAL" />
-      <updated>1737997333443</updated>
     </task>
     <task id="LOCAL-00117" summary="Multithreading using Runnable Interface">
       <option name="closed" value="true" />
@@ -636,7 +620,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738395163912</updated>
     </task>
-    <option name="localTasksCounter" value="164" />
+    <task id="LOCAL-00164" summary="Functional Programing way of factorial">
+      <option name="closed" value="true" />
+      <created>1738395379069</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1738395379069</updated>
+    </task>
+    <task id="LOCAL-00165" summary="Functional Programing way of factorial">
+      <option name="closed" value="true" />
+      <created>1738395385469</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1738395385469</updated>
+    </task>
+    <option name="localTasksCounter" value="166" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -651,7 +651,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Ternary operator use score card" />
     <MESSAGE value="Thread implementing using thread class" />
     <MESSAGE value="half pattern logic" />
     <MESSAGE value="Multithreading using Runnable Interface" />
@@ -676,7 +675,8 @@
     <MESSAGE value="Interface own" />
     <MESSAGE value="Test Own interface" />
     <MESSAGE value="normal way of factorial" />
-    <option name="LAST_COMMIT_MESSAGE" value="normal way of factorial" />
+    <MESSAGE value="Functional Programing way of factorial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Functional Programing way of factorial" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
