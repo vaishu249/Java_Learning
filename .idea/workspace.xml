@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="Method Refrences">
-      <change beforePath="$PROJECT_DIR$/src/Learning/LambdaAndStream/MethodRefrence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learning/LambdaAndStream/MethodRefrence.java" afterDir="false" />
-    </list>
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="Method Refrences with integer class" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -241,22 +239,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00106" summary="half">
-      <option name="closed" value="true" />
-      <created>1737817189160</created>
-      <option name="number" value="00106" />
-      <option name="presentableId" value="LOCAL-00106" />
-      <option name="project" value="LOCAL" />
-      <updated>1737817189160</updated>
-    </task>
-    <task id="LOCAL-00107" summary="half">
-      <option name="closed" value="true" />
-      <created>1737898877020</created>
-      <option name="number" value="00107" />
-      <option name="presentableId" value="LOCAL-00107" />
-      <option name="project" value="LOCAL" />
-      <updated>1737898877020</updated>
     </task>
     <task id="LOCAL-00108" summary="Ternary operator use score card">
       <option name="closed" value="true" />
@@ -634,7 +616,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738390043595</updated>
     </task>
-    <option name="localTasksCounter" value="155" />
+    <task id="LOCAL-00155" summary="Method Refrences with integer class">
+      <option name="closed" value="true" />
+      <created>1738390313156</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1738390313156</updated>
+    </task>
+    <task id="LOCAL-00156" summary="Method Refrences with integer class">
+      <option name="closed" value="true" />
+      <created>1738390316489</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1738390316489</updated>
+    </task>
+    <option name="localTasksCounter" value="157" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -649,7 +647,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="map changes" />
     <MESSAGE value="minar" />
     <MESSAGE value="* * * * * &#10;*       * &#10;* * *   * &#10;*   *   * &#10;* * * * *" />
     <MESSAGE value="half" />
@@ -674,7 +671,8 @@
     <MESSAGE value="Odd Value From list Of String" />
     <MESSAGE value="String concatination" />
     <MESSAGE value="Method Refrences" />
-    <option name="LAST_COMMIT_MESSAGE" value="Method Refrences" />
+    <MESSAGE value="Method Refrences with integer class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Method Refrences with integer class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
