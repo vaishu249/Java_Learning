@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="Functional Programing way of factorial">
-      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/P55OptionalClass/StringEmptyOrNotUsingOptionalClass.java" afterDir="false" />
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="optional class">
+      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/P55OptionalClass/P56DistinctInArrayStream.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,6 +112,7 @@
     "Application.P50TernaryOperatorStudentScore.executor": "Run",
     "Application.P51OddNoUsingLambda.executor": "Run",
     "Application.P52StringConcatInLambda.executor": "Run",
+    "Application.P56DistinctInArrayStream.executor": "Run",
     "Application.Pattern_01.executor": "Run",
     "Application.Pattern_02.executor": "Run",
     "Application.Pattern_03.executor": "Run",
@@ -128,6 +129,7 @@
     "Application.Pattern_14.executor": "Run",
     "Application.ReduceWithLambda.executor": "Run",
     "Application.SetHashSet.executor": "Run",
+    "Application.StringEmptyOrNotUsingOptionalClass.executor": "Run",
     "Application.Sum.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.TestDogNestedClass.executor": "Run",
@@ -159,7 +161,7 @@
       <recent name="Learning.Multithreading" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringEmptyOrNotUsingOptionalClass">
+  <component name="RunManager" selected="Application.P56DistinctInArrayStream">
     <configuration name="FactorialTwoWay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProblemSolving.P54FactorialWith2Ways.FactorialTwoWay" />
       <module name="Problem Solving" />
@@ -186,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P52StringConcatInLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProblemSolving.P52StringConcatInLambda" />
+    <configuration name="P56DistinctInArrayStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemSolving.P55OptionalClass.P56DistinctInArrayStream" />
       <module name="Problem Solving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProblemSolving.*" />
+          <option name="PATTERN" value="ProblemSolving.P55OptionalClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,11 +229,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P56DistinctInArrayStream" />
         <item itemvalue="Application.StringEmptyOrNotUsingOptionalClass" />
         <item itemvalue="Application.FactorialTwoWay" />
         <item itemvalue="Application.TestOwnFunctionalInterface" />
         <item itemvalue="Application.MethodRefrence" />
-        <item itemvalue="Application.P52StringConcatInLambda" />
       </list>
     </recent_temporary>
   </component>
@@ -243,22 +245,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00117" summary="Multithreading using Runnable Interface">
-      <option name="closed" value="true" />
-      <created>1737999788033</created>
-      <option name="number" value="00117" />
-      <option name="presentableId" value="LOCAL-00117" />
-      <option name="project" value="LOCAL" />
-      <updated>1737999788033</updated>
-    </task>
-    <task id="LOCAL-00118" summary="Multithreading using Runnable Interface">
-      <option name="closed" value="true" />
-      <created>1738055277964</created>
-      <option name="number" value="00118" />
-      <option name="presentableId" value="LOCAL-00118" />
-      <option name="project" value="LOCAL" />
-      <updated>1738055277965</updated>
     </task>
     <task id="LOCAL-00119" summary="Thread Priority">
       <option name="closed" value="true" />
@@ -636,7 +622,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738395385469</updated>
     </task>
-    <option name="localTasksCounter" value="166" />
+    <task id="LOCAL-00166" summary="optional class">
+      <option name="closed" value="true" />
+      <created>1738395814578</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1738395814578</updated>
+    </task>
+    <task id="LOCAL-00167" summary="optional class">
+      <option name="closed" value="true" />
+      <created>1738395818402</created>
+      <option name="number" value="00167" />
+      <option name="presentableId" value="LOCAL-00167" />
+      <option name="project" value="LOCAL" />
+      <updated>1738395818402</updated>
+    </task>
+    <option name="localTasksCounter" value="168" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -651,7 +653,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Thread implementing using thread class" />
     <MESSAGE value="half pattern logic" />
     <MESSAGE value="Multithreading using Runnable Interface" />
     <MESSAGE value="Thread Priority" />
@@ -676,7 +677,8 @@
     <MESSAGE value="Test Own interface" />
     <MESSAGE value="normal way of factorial" />
     <MESSAGE value="Functional Programing way of factorial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Functional Programing way of factorial" />
+    <MESSAGE value="optional class" />
+    <option name="LAST_COMMIT_MESSAGE" value="optional class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
