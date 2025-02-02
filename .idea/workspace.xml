@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="create to string method">
-      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/P58CovertStringToIntAndSquare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="list convert into integer and then get their square and add them" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -248,30 +245,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00127" summary="Thread sleep and synchronized keyword">
-      <option name="closed" value="true" />
-      <created>1738166478977</created>
-      <option name="number" value="00127" />
-      <option name="presentableId" value="LOCAL-00127" />
-      <option name="project" value="LOCAL" />
-      <updated>1738166478977</updated>
-    </task>
-    <task id="LOCAL-00128" summary="Thread sleep and synchronized keyword">
-      <option name="closed" value="true" />
-      <created>1738230363593</created>
-      <option name="number" value="00128" />
-      <option name="presentableId" value="LOCAL-00128" />
-      <option name="project" value="LOCAL" />
-      <updated>1738230363593</updated>
-    </task>
-    <task id="LOCAL-00129" summary="Thread sleep and synchronized keyword">
-      <option name="closed" value="true" />
-      <created>1738233851438</created>
-      <option name="number" value="00129" />
-      <option name="presentableId" value="LOCAL-00129" />
-      <option name="project" value="LOCAL" />
-      <updated>1738233851438</updated>
     </task>
     <task id="LOCAL-00130" summary="Thread executor">
       <option name="closed" value="true" />
@@ -641,7 +614,31 @@
       <option name="project" value="LOCAL" />
       <updated>1738400457130</updated>
     </task>
-    <option name="localTasksCounter" value="176" />
+    <task id="LOCAL-00176" summary="list convert into integer and then get their square and add them">
+      <option name="closed" value="true" />
+      <created>1738400994216</created>
+      <option name="number" value="00176" />
+      <option name="presentableId" value="LOCAL-00176" />
+      <option name="project" value="LOCAL" />
+      <updated>1738400994216</updated>
+    </task>
+    <task id="LOCAL-00177" summary="list convert into integer and then get their square and add them">
+      <option name="closed" value="true" />
+      <created>1738400998729</created>
+      <option name="number" value="00177" />
+      <option name="presentableId" value="LOCAL-00177" />
+      <option name="project" value="LOCAL" />
+      <updated>1738400998729</updated>
+    </task>
+    <task id="LOCAL-00178" summary="list convert into integer and then get their square and add them">
+      <option name="closed" value="true" />
+      <created>1738401060990</created>
+      <option name="number" value="00178" />
+      <option name="presentableId" value="LOCAL-00178" />
+      <option name="project" value="LOCAL" />
+      <updated>1738401060990</updated>
+    </task>
+    <option name="localTasksCounter" value="179" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -656,7 +653,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Thraed problem with join" />
     <MESSAGE value="Thread sleep and synchronized keyword" />
     <MESSAGE value="Thread executor" />
     <MESSAGE value="Thread executor multiple" />
@@ -681,7 +677,8 @@
     <MESSAGE value="employee detail constructor and get seeter" />
     <MESSAGE value="sort employee detail using salary" />
     <MESSAGE value="create to string method" />
-    <option name="LAST_COMMIT_MESSAGE" value="create to string method" />
+    <MESSAGE value="list convert into integer and then get their square and add them" />
+    <option name="LAST_COMMIT_MESSAGE" value="list convert into integer and then get their square and add them" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
