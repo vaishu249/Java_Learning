@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="list convert into integer and then get their square and add them">
-      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/P59StringPalindrome.java" afterDir="false" />
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="String Palindrome or not">
+      <change afterPath="$PROJECT_DIR$/src/Learning/ArrayInJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/P60NoPrimeOrNot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +60,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArrayInJava.executor": "Run",
     "Application.ArrayList.executor": "Run",
     "Application.AvoidConcatination.executor": "Run",
     "Application.Eagle.executor": "Run",
@@ -116,6 +118,7 @@
     "Application.P56DistinctInArrayStream.executor": "Run",
     "Application.P58CovertStringToIntAndSquare.executor": "Run",
     "Application.P59StringPalindrome.executor": "Run",
+    "Application.P60NoPrimeOrNot.executor": "Run",
     "Application.Pattern_01.executor": "Run",
     "Application.Pattern_02.executor": "Run",
     "Application.Pattern_03.executor": "Run",
@@ -165,13 +168,13 @@
       <recent name="Learning.Multithreading" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P59StringPalindrome">
-    <configuration name="P56DistinctInArrayStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProblemSolving.P56DistinctInArrayStream" />
+  <component name="RunManager" selected="Application.ArrayInJava">
+    <configuration name="ArrayInJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Learning.ArrayInJava" />
       <module name="Problem Solving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProblemSolving.*" />
+          <option name="PATTERN" value="Learning.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,8 +208,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringEmptyOrNotUsingOptionalClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProblemSolving.P55OptionalClass.StringEmptyOrNotUsingOptionalClass" />
+    <configuration name="P60NoPrimeOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemSolving.P60NoPrimeOrNot" />
       <module name="Problem Solving" />
       <extension name="coverage">
         <pattern>
@@ -233,11 +236,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayInJava" />
+        <item itemvalue="Application.P60NoPrimeOrNot" />
         <item itemvalue="Application.P59StringPalindrome" />
         <item itemvalue="Application.P58CovertStringToIntAndSquare" />
         <item itemvalue="Application.TestAndSortUsingSalary" />
-        <item itemvalue="Application.P56DistinctInArrayStream" />
-        <item itemvalue="Application.StringEmptyOrNotUsingOptionalClass" />
       </list>
     </recent_temporary>
   </component>
@@ -249,14 +252,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00133" summary="Refactor">
-      <option name="closed" value="true" />
-      <created>1738333789841</created>
-      <option name="number" value="00133" />
-      <option name="presentableId" value="LOCAL-00133" />
-      <option name="project" value="LOCAL" />
-      <updated>1738333789841</updated>
     </task>
     <task id="LOCAL-00134" summary="stream and lambda expression">
       <option name="closed" value="true" />
@@ -642,7 +637,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738558321532</updated>
     </task>
-    <option name="localTasksCounter" value="182" />
+    <task id="LOCAL-00182" summary="String Palindrome or not">
+      <option name="closed" value="true" />
+      <created>1738562132794</created>
+      <option name="number" value="00182" />
+      <option name="presentableId" value="LOCAL-00182" />
+      <option name="project" value="LOCAL" />
+      <updated>1738562132794</updated>
+    </task>
+    <option name="localTasksCounter" value="183" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -657,7 +660,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Thread sleep and synchronized keyword" />
     <MESSAGE value="Thread executor" />
     <MESSAGE value="Thread executor multiple" />
     <MESSAGE value="Refactor" />
@@ -682,7 +684,8 @@
     <MESSAGE value="sort employee detail using salary" />
     <MESSAGE value="create to string method" />
     <MESSAGE value="list convert into integer and then get their square and add them" />
-    <option name="LAST_COMMIT_MESSAGE" value="list convert into integer and then get their square and add them" />
+    <MESSAGE value="String Palindrome or not" />
+    <option name="LAST_COMMIT_MESSAGE" value="String Palindrome or not" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
