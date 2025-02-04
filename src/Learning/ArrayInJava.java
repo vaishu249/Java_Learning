@@ -1,6 +1,6 @@
 package Learning;
 
-import java.util.Scanner;
+import java.util.*;
 
 public class ArrayInJava {
     public static void main(String[] args) {
