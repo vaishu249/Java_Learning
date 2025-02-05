@@ -15,7 +15,7 @@ public class P61MaximumValueInArray {
         for (int i = 0; i < arr.length ; i++) {
             System.out.print(arr[i]+" ");
         }
-        System.out.println("Maximum value in array is : ");
+        System.out.println("\nMaximum value in array is : ");
         int maximumVal=0;
         for (int i = 0; i < arr.length; i++) {
             if(maximumVal<arr[i]){
@@ -23,5 +23,14 @@ public class P61MaximumValueInArray {
             }
         }
         System.out.println(maximumVal);
+
+        System.out.println("Using for each loop maximum no is : ");
+        int newMax=0;
+        for(int num:arr){
+            if(newMax<num){
+                newMax=num;
+            }
+        }
+        System.out.println(newMax);
     }
 }
