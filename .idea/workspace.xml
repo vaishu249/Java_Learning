@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="In array check the ocurance of no">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/P63SpecificWordOccurThenBreakLoop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,6 +119,7 @@
     "Application.P60NoPrimeOrNot.executor": "Run",
     "Application.P61MaximumValueInArray.executor": "Run",
     "Application.P62OccuranceOfNoInArray.executor": "Run",
+    "Application.P63SpecificWordOccurThenBreakLoop.executor": "Run",
     "Application.Pattern_01.executor": "Run",
     "Application.Pattern_02.executor": "Run",
     "Application.Pattern_03.executor": "Run",
@@ -168,26 +169,13 @@
       <recent name="Learning.Multithreading" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P62OccuranceOfNoInArray">
+  <component name="RunManager" selected="Application.P63SpecificWordOccurThenBreakLoop">
     <configuration name="ArrayInJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Learning.ArrayInJava" />
       <module name="Problem Solving" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Learning.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P59StringPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProblemSolving.P59StringPalindrome" />
-      <module name="Problem Solving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ProblemSolving.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,13 +222,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P63SpecificWordOccurThenBreakLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemSolving.P63SpecificWordOccurThenBreakLoop" />
+      <module name="Problem Solving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProblemSolving.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P63SpecificWordOccurThenBreakLoop" />
         <item itemvalue="Application.P62OccuranceOfNoInArray" />
         <item itemvalue="Application.P61MaximumValueInArray" />
         <item itemvalue="Application.ArrayInJava" />
         <item itemvalue="Application.P60NoPrimeOrNot" />
-        <item itemvalue="Application.P59StringPalindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -252,14 +253,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00142" summary="Lmbda using multiplication">
-      <option name="closed" value="true" />
-      <created>1738346149464</created>
-      <option name="number" value="00142" />
-      <option name="presentableId" value="LOCAL-00142" />
-      <option name="project" value="LOCAL" />
-      <updated>1738346149464</updated>
     </task>
     <task id="LOCAL-00143" summary="Lmbda using multiplication">
       <option name="closed" value="true" />
@@ -645,7 +638,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738737615902</updated>
     </task>
-    <option name="localTasksCounter" value="191" />
+    <task id="LOCAL-00191" summary="In array check the ocurance of no">
+      <option name="closed" value="true" />
+      <created>1738855592279</created>
+      <option name="number" value="00191" />
+      <option name="presentableId" value="LOCAL-00191" />
+      <option name="project" value="LOCAL" />
+      <updated>1738855592280</updated>
+    </task>
+    <option name="localTasksCounter" value="192" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
