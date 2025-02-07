@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="half code of palindrome string">
-      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/P69ToStringToPrintUserDetail.java" afterDir="false" />
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="tostring Method">
+      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/P70StringConcatination.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,6 +126,8 @@
     "Application.P66FactorialUsingRecursion.executor": "Run",
     "Application.P66FibonacciSeriesUsingRecursion.executor": "Run",
     "Application.P67FibonacciSeriesUsingRecursion.executor": "Run",
+    "Application.P69ToStringToPrintUserDetail.executor": "Run",
+    "Application.P70StringConcatination.executor": "Run",
     "Application.Pattern_01.executor": "Run",
     "Application.Pattern_02.executor": "Run",
     "Application.Pattern_03.executor": "Run",
@@ -174,20 +177,7 @@
       <recent name="Learning.Multithreading" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P69ToStringToPrintUserDetail">
-    <configuration name="P65ContinueTosumOfOddNo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProblemSolving.P65ContinueTosumOfOddNo" />
-      <module name="Problem Solving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ProblemSolving.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P70StringConcatination">
     <configuration name="P66FactorialUsingRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProblemSolving.P66FactorialUsingRecursion" />
       <module name="Problem Solving" />
@@ -240,13 +230,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P70StringConcatination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemSolving.P70StringConcatination" />
+      <module name="Problem Solving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProblemSolving.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P70StringConcatination" />
         <item itemvalue="Application.P69ToStringToPrintUserDetail" />
         <item itemvalue="Application.P67FibonacciSeriesUsingRecursion" />
         <item itemvalue="Application.P66FactorialUsingRecursion" />
         <item itemvalue="Application.P66FibonacciSeriesUsingRecursion" />
-        <item itemvalue="Application.P65ContinueTosumOfOddNo" />
       </list>
     </recent_temporary>
   </component>
@@ -258,22 +261,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00155" summary="Method Refrences with integer class">
-      <option name="closed" value="true" />
-      <created>1738390313156</created>
-      <option name="number" value="00155" />
-      <option name="presentableId" value="LOCAL-00155" />
-      <option name="project" value="LOCAL" />
-      <updated>1738390313156</updated>
-    </task>
-    <task id="LOCAL-00156" summary="Method Refrences with integer class">
-      <option name="closed" value="true" />
-      <created>1738390316489</created>
-      <option name="number" value="00156" />
-      <option name="presentableId" value="LOCAL-00156" />
-      <option name="project" value="LOCAL" />
-      <updated>1738390316489</updated>
     </task>
     <task id="LOCAL-00157" summary="Method Refrences with integer class">
       <option name="closed" value="true" />
@@ -651,7 +638,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738937739179</updated>
     </task>
-    <option name="localTasksCounter" value="204" />
+    <task id="LOCAL-00204" summary="tostring Method">
+      <option name="closed" value="true" />
+      <created>1738938167173</created>
+      <option name="number" value="00204" />
+      <option name="presentableId" value="LOCAL-00204" />
+      <option name="project" value="LOCAL" />
+      <updated>1738938167173</updated>
+    </task>
+    <task id="LOCAL-00205" summary="tostring Method">
+      <option name="closed" value="true" />
+      <created>1738938196023</created>
+      <option name="number" value="00205" />
+      <option name="presentableId" value="LOCAL-00205" />
+      <option name="project" value="LOCAL" />
+      <updated>1738938196023</updated>
+    </task>
+    <option name="localTasksCounter" value="206" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -666,7 +669,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="String concatination" />
     <MESSAGE value="Method Refrences" />
     <MESSAGE value="Method Refrences with integer class" />
     <MESSAGE value="Interface own" />
@@ -691,7 +693,8 @@
     <MESSAGE value="factorial using recursion" />
     <MESSAGE value="fibonacci using recursion" />
     <MESSAGE value="half code of palindrome string" />
-    <option name="LAST_COMMIT_MESSAGE" value="half code of palindrome string" />
+    <MESSAGE value="tostring Method" />
+    <option name="LAST_COMMIT_MESSAGE" value="tostring Method" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
