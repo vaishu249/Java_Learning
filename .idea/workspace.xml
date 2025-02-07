@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="String Concatination">
-      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/P71CircumferenceOfCircleUsingPow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="circumfrence of circle using math function" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -262,22 +259,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00159" summary="Test Own interface">
-      <option name="closed" value="true" />
-      <created>1738394624600</created>
-      <option name="number" value="00159" />
-      <option name="presentableId" value="LOCAL-00159" />
-      <option name="project" value="LOCAL" />
-      <updated>1738394624600</updated>
-    </task>
-    <task id="LOCAL-00160" summary="Test Own interface">
-      <option name="closed" value="true" />
-      <created>1738394628320</created>
-      <option name="number" value="00160" />
-      <option name="presentableId" value="LOCAL-00160" />
-      <option name="project" value="LOCAL" />
-      <updated>1738394628320</updated>
     </task>
     <task id="LOCAL-00161" summary="Test Own interface">
       <option name="closed" value="true" />
@@ -655,7 +636,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738938395877</updated>
     </task>
-    <option name="localTasksCounter" value="208" />
+    <task id="LOCAL-00208" summary="circumfrence of circle using math function">
+      <option name="closed" value="true" />
+      <created>1738943590435</created>
+      <option name="number" value="00208" />
+      <option name="presentableId" value="LOCAL-00208" />
+      <option name="project" value="LOCAL" />
+      <updated>1738943590435</updated>
+    </task>
+    <task id="LOCAL-00209" summary="circumfrence of circle using math function">
+      <option name="closed" value="true" />
+      <created>1738943603614</created>
+      <option name="number" value="00209" />
+      <option name="presentableId" value="LOCAL-00209" />
+      <option name="project" value="LOCAL" />
+      <updated>1738943603614</updated>
+    </task>
+    <option name="localTasksCounter" value="210" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -670,7 +667,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Method Refrences with integer class" />
     <MESSAGE value="Interface own" />
     <MESSAGE value="Test Own interface" />
     <MESSAGE value="normal way of factorial" />
@@ -695,7 +691,8 @@
     <MESSAGE value="half code of palindrome string" />
     <MESSAGE value="tostring Method" />
     <MESSAGE value="String Concatination" />
-    <option name="LAST_COMMIT_MESSAGE" value="String Concatination" />
+    <MESSAGE value="circumfrence of circle using math function" />
+    <option name="LAST_COMMIT_MESSAGE" value="circumfrence of circle using math function" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
