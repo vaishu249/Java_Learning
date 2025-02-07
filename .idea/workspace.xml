@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="continue word sum of odd no">
-      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/P66FibonacciSeriesUsingRecursion.java" afterDir="false" />
-    </list>
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="factorial using recursion" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,6 +120,7 @@
     "Application.P63SpecificWordOccurThenBreakLoop.executor": "Run",
     "Application.P64ContinueTosumOfPositiveNo.executor": "Run",
     "Application.P65ContinueTosumOfOddNo.executor": "Run",
+    "Application.P66FactorialUsingRecursion.executor": "Run",
     "Application.P66FibonacciSeriesUsingRecursion.executor": "Run",
     "Application.Pattern_01.executor": "Run",
     "Application.Pattern_02.executor": "Run",
@@ -256,22 +255,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00149" summary="String concatination">
-      <option name="closed" value="true" />
-      <created>1738347240854</created>
-      <option name="number" value="00149" />
-      <option name="presentableId" value="LOCAL-00149" />
-      <option name="project" value="LOCAL" />
-      <updated>1738347240854</updated>
-    </task>
-    <task id="LOCAL-00150" summary="String concatination">
-      <option name="closed" value="true" />
-      <created>1738347263319</created>
-      <option name="number" value="00150" />
-      <option name="presentableId" value="LOCAL-00150" />
-      <option name="project" value="LOCAL" />
-      <updated>1738347263319</updated>
     </task>
     <task id="LOCAL-00151" summary="String concatination">
       <option name="closed" value="true" />
@@ -649,7 +632,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738856517110</updated>
     </task>
-    <option name="localTasksCounter" value="198" />
+    <task id="LOCAL-00198" summary="factorial using recursion">
+      <option name="closed" value="true" />
+      <created>1738856846696</created>
+      <option name="number" value="00198" />
+      <option name="presentableId" value="LOCAL-00198" />
+      <option name="project" value="LOCAL" />
+      <updated>1738856846696</updated>
+    </task>
+    <task id="LOCAL-00199" summary="factorial using recursion">
+      <option name="closed" value="true" />
+      <created>1738856853637</created>
+      <option name="number" value="00199" />
+      <option name="presentableId" value="LOCAL-00199" />
+      <option name="project" value="LOCAL" />
+      <updated>1738856853638</updated>
+    </task>
+    <option name="localTasksCounter" value="200" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -664,7 +663,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Lmbda using multiplication" />
     <MESSAGE value="string of list print in console" />
     <MESSAGE value="Odd Value From list Of String" />
     <MESSAGE value="String concatination" />
@@ -689,7 +687,8 @@
     <MESSAGE value="specific word guessing" />
     <MESSAGE value="continue word" />
     <MESSAGE value="continue word sum of odd no" />
-    <option name="LAST_COMMIT_MESSAGE" value="continue word sum of odd no" />
+    <MESSAGE value="factorial using recursion" />
+    <option name="LAST_COMMIT_MESSAGE" value="factorial using recursion" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
