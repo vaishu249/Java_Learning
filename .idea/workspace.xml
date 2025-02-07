@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="factorial using recursion">
-      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/P67FibonacciSeriesUsingRecursion.java" afterDir="false" />
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="half code of palindrome string">
+      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/P69ToStringToPrintUserDetail.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,20 +174,7 @@
       <recent name="Learning.Multithreading" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P67FibonacciSeriesUsingRecursion">
-    <configuration name="P64ContinueTosumOfPositiveNo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProblemSolving.P64ContinueTosumOfPositiveNo" />
-      <module name="Problem Solving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ProblemSolving.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P69ToStringToPrintUserDetail">
     <configuration name="P65ContinueTosumOfOddNo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProblemSolving.P65ContinueTosumOfOddNo" />
       <module name="Problem Solving" />
@@ -240,13 +227,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P69ToStringToPrintUserDetail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemSolving.P69ToStringToPrintUserDetail" />
+      <module name="Problem Solving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProblemSolving.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P69ToStringToPrintUserDetail" />
         <item itemvalue="Application.P67FibonacciSeriesUsingRecursion" />
         <item itemvalue="Application.P66FactorialUsingRecursion" />
         <item itemvalue="Application.P66FibonacciSeriesUsingRecursion" />
         <item itemvalue="Application.P65ContinueTosumOfOddNo" />
-        <item itemvalue="Application.P64ContinueTosumOfPositiveNo" />
       </list>
     </recent_temporary>
   </component>
@@ -258,30 +258,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00152" summary="String concatination">
-      <option name="closed" value="true" />
-      <created>1738387761588</created>
-      <option name="number" value="00152" />
-      <option name="presentableId" value="LOCAL-00152" />
-      <option name="project" value="LOCAL" />
-      <updated>1738387761588</updated>
-    </task>
-    <task id="LOCAL-00153" summary="Method Refrences">
-      <option name="closed" value="true" />
-      <created>1738390039647</created>
-      <option name="number" value="00153" />
-      <option name="presentableId" value="LOCAL-00153" />
-      <option name="project" value="LOCAL" />
-      <updated>1738390039648</updated>
-    </task>
-    <task id="LOCAL-00154" summary="Method Refrences">
-      <option name="closed" value="true" />
-      <created>1738390043595</created>
-      <option name="number" value="00154" />
-      <option name="presentableId" value="LOCAL-00154" />
-      <option name="project" value="LOCAL" />
-      <updated>1738390043595</updated>
     </task>
     <task id="LOCAL-00155" summary="Method Refrences with integer class">
       <option name="closed" value="true" />
@@ -651,7 +627,31 @@
       <option name="project" value="LOCAL" />
       <updated>1738936817194</updated>
     </task>
-    <option name="localTasksCounter" value="201" />
+    <task id="LOCAL-00201" summary="fibonacci using recursion">
+      <option name="closed" value="true" />
+      <created>1738937393319</created>
+      <option name="number" value="00201" />
+      <option name="presentableId" value="LOCAL-00201" />
+      <option name="project" value="LOCAL" />
+      <updated>1738937393319</updated>
+    </task>
+    <task id="LOCAL-00202" summary="fibonacci using recursion">
+      <option name="closed" value="true" />
+      <created>1738937396299</created>
+      <option name="number" value="00202" />
+      <option name="presentableId" value="LOCAL-00202" />
+      <option name="project" value="LOCAL" />
+      <updated>1738937396299</updated>
+    </task>
+    <task id="LOCAL-00203" summary="half code of palindrome string">
+      <option name="closed" value="true" />
+      <created>1738937739179</created>
+      <option name="number" value="00203" />
+      <option name="presentableId" value="LOCAL-00203" />
+      <option name="project" value="LOCAL" />
+      <updated>1738937739179</updated>
+    </task>
+    <option name="localTasksCounter" value="204" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -666,8 +666,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="string of list print in console" />
-    <MESSAGE value="Odd Value From list Of String" />
     <MESSAGE value="String concatination" />
     <MESSAGE value="Method Refrences" />
     <MESSAGE value="Method Refrences with integer class" />
@@ -691,7 +689,9 @@
     <MESSAGE value="continue word" />
     <MESSAGE value="continue word sum of odd no" />
     <MESSAGE value="factorial using recursion" />
-    <option name="LAST_COMMIT_MESSAGE" value="factorial using recursion" />
+    <MESSAGE value="fibonacci using recursion" />
+    <MESSAGE value="half code of palindrome string" />
+    <option name="LAST_COMMIT_MESSAGE" value="half code of palindrome string" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
