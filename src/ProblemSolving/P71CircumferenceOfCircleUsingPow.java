@@ -7,7 +7,7 @@ public class P71CircumferenceOfCircleUsingPow {
         Scanner input=new Scanner(System.in);
         System.out.println("Diameter of circle :");
         int radius=input.nextInt();
-        float circumfrence= (float) (2*radius*Math.PI);
-        System.out.println("Circumference of circle : "+circumfrence);
+        float circumference= (float) (2*radius*Math.PI);
+        System.out.println("Circumference of circle : "+circumference);
     }
 }
