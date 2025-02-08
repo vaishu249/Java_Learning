@@ -260,14 +260,6 @@
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
     </task>
-    <task id="LOCAL-00161" summary="Test Own interface">
-      <option name="closed" value="true" />
-      <created>1738394647415</created>
-      <option name="number" value="00161" />
-      <option name="presentableId" value="LOCAL-00161" />
-      <option name="project" value="LOCAL" />
-      <updated>1738394647415</updated>
-    </task>
     <task id="LOCAL-00162" summary="normal way of factorial">
       <option name="closed" value="true" />
       <created>1738395160539</created>
@@ -652,7 +644,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738943603614</updated>
     </task>
-    <option name="localTasksCounter" value="210" />
+    <task id="LOCAL-00210" summary="circumfrence of circle using math function">
+      <option name="closed" value="true" />
+      <created>1738943830632</created>
+      <option name="number" value="00210" />
+      <option name="presentableId" value="LOCAL-00210" />
+      <option name="project" value="LOCAL" />
+      <updated>1738943830632</updated>
+    </task>
+    <option name="localTasksCounter" value="211" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
