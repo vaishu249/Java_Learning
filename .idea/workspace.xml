@@ -181,20 +181,7 @@
       <recent name="Learning.Multithreading" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P74FinalKeywordUse">
-    <configuration name="P70StringConcatination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProblemSolving.P70StringConcatination" />
-      <module name="Problem Solving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ProblemSolving.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P75StringBuilder">
     <configuration name="P71CircumferenceOfCircleUsingPow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProblemSolving.P71CircumferenceOfCircleUsingPow" />
       <module name="Problem Solving" />
@@ -247,13 +234,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P75StringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemSolving.P75StringBuilder" />
+      <module name="Problem Solving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProblemSolving.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P75StringBuilder" />
         <item itemvalue="Application.P74FinalKeywordUse" />
         <item itemvalue="Application.P73NoGuessingUsingMath" />
         <item itemvalue="Application.P72DiceRoller" />
         <item itemvalue="Application.P71CircumferenceOfCircleUsingPow" />
-        <item itemvalue="Application.P70StringConcatination" />
       </list>
     </recent_temporary>
   </component>
