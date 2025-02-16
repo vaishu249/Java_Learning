@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="final keyword">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProblemSolving/P74FinalKeywordUse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolving/P74FinalKeywordUse.java" afterDir="false" />
-    </list>
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="String Builder" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,6 +129,7 @@
     "Application.P72DiceRoller.executor": "Run",
     "Application.P73NoGuessingUsingMath.executor": "Run",
     "Application.P74FinalKeywordUse.executor": "Run",
+    "Application.P75StringBuilder.executor": "Run",
     "Application.Pattern_01.executor": "Run",
     "Application.Pattern_02.executor": "Run",
     "Application.Pattern_03.executor": "Run",
@@ -265,38 +263,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00172" summary="employee detail constructor and get seeter">
-      <option name="closed" value="true" />
-      <created>1738399737867</created>
-      <option name="number" value="00172" />
-      <option name="presentableId" value="LOCAL-00172" />
-      <option name="project" value="LOCAL" />
-      <updated>1738399737867</updated>
-    </task>
-    <task id="LOCAL-00173" summary="sort employee detail using salary">
-      <option name="closed" value="true" />
-      <created>1738400434594</created>
-      <option name="number" value="00173" />
-      <option name="presentableId" value="LOCAL-00173" />
-      <option name="project" value="LOCAL" />
-      <updated>1738400434594</updated>
-    </task>
-    <task id="LOCAL-00174" summary="create to string method">
-      <option name="closed" value="true" />
-      <created>1738400452235</created>
-      <option name="number" value="00174" />
-      <option name="presentableId" value="LOCAL-00174" />
-      <option name="project" value="LOCAL" />
-      <updated>1738400452235</updated>
-    </task>
-    <task id="LOCAL-00175" summary="create to string method">
-      <option name="closed" value="true" />
-      <created>1738400457130</created>
-      <option name="number" value="00175" />
-      <option name="presentableId" value="LOCAL-00175" />
-      <option name="project" value="LOCAL" />
-      <updated>1738400457130</updated>
     </task>
     <task id="LOCAL-00176" summary="list convert into integer and then get their square and add them">
       <option name="closed" value="true" />
@@ -658,7 +624,39 @@
       <option name="project" value="LOCAL" />
       <updated>1739726306535</updated>
     </task>
-    <option name="localTasksCounter" value="221" />
+    <task id="LOCAL-00221" summary="final keyword">
+      <option name="closed" value="true" />
+      <created>1739728580859</created>
+      <option name="number" value="00221" />
+      <option name="presentableId" value="LOCAL-00221" />
+      <option name="project" value="LOCAL" />
+      <updated>1739728580859</updated>
+    </task>
+    <task id="LOCAL-00222" summary="final keyword">
+      <option name="closed" value="true" />
+      <created>1739728592318</created>
+      <option name="number" value="00222" />
+      <option name="presentableId" value="LOCAL-00222" />
+      <option name="project" value="LOCAL" />
+      <updated>1739728592318</updated>
+    </task>
+    <task id="LOCAL-00223" summary="String Builder">
+      <option name="closed" value="true" />
+      <created>1739728774285</created>
+      <option name="number" value="00223" />
+      <option name="presentableId" value="LOCAL-00223" />
+      <option name="project" value="LOCAL" />
+      <updated>1739728774286</updated>
+    </task>
+    <task id="LOCAL-00224" summary="String Builder">
+      <option name="closed" value="true" />
+      <created>1739728782164</created>
+      <option name="number" value="00224" />
+      <option name="presentableId" value="LOCAL-00224" />
+      <option name="project" value="LOCAL" />
+      <updated>1739728782164</updated>
+    </task>
+    <option name="localTasksCounter" value="225" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -673,7 +671,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Functional Programing way of factorial" />
     <MESSAGE value="optional class" />
     <MESSAGE value="Old list : [10, 1, 1, 10, 2, 4, 5, 4, 5, 6, 78, 8]&#10;New List : [10, 1, 2, 4, 5, 6, 78, 8]" />
     <MESSAGE value="refactor" />
@@ -698,7 +695,8 @@
     <MESSAGE value="math.random" />
     <MESSAGE value="no guessing" />
     <MESSAGE value="final keyword" />
-    <option name="LAST_COMMIT_MESSAGE" value="final keyword" />
+    <MESSAGE value="String Builder" />
+    <option name="LAST_COMMIT_MESSAGE" value="String Builder" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
