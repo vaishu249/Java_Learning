@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="No guessing game">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProblemSolving/P73NoGuessingUsingMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolving/P73NoGuessingUsingMath.java" afterDir="false" />
-    </list>
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="No guessing game" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -267,22 +264,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00181" summary="list convert into integer and then get their square and add them">
-      <option name="closed" value="true" />
-      <created>1738558321532</created>
-      <option name="number" value="00181" />
-      <option name="presentableId" value="LOCAL-00181" />
-      <option name="project" value="LOCAL" />
-      <updated>1738558321532</updated>
-    </task>
-    <task id="LOCAL-00182" summary="String Palindrome or not">
-      <option name="closed" value="true" />
-      <created>1738562132794</created>
-      <option name="number" value="00182" />
-      <option name="presentableId" value="LOCAL-00182" />
-      <option name="project" value="LOCAL" />
-      <updated>1738562132794</updated>
     </task>
     <task id="LOCAL-00183" summary="array 2d">
       <option name="closed" value="true" />
@@ -660,7 +641,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739764994080</updated>
     </task>
-    <option name="localTasksCounter" value="230" />
+    <task id="LOCAL-00230" summary="No guessing game">
+      <option name="closed" value="true" />
+      <created>1739766946206</created>
+      <option name="number" value="00230" />
+      <option name="presentableId" value="LOCAL-00230" />
+      <option name="project" value="LOCAL" />
+      <updated>1739766946206</updated>
+    </task>
+    <task id="LOCAL-00231" summary="No guessing game">
+      <option name="closed" value="true" />
+      <created>1739766955094</created>
+      <option name="number" value="00231" />
+      <option name="presentableId" value="LOCAL-00231" />
+      <option name="project" value="LOCAL" />
+      <updated>1739766955094</updated>
+    </task>
+    <option name="localTasksCounter" value="232" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
