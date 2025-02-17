@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="String Builder using into an array">
+    <list default="true" id="62e9d7ba-03a7-4848-9f24-84a470562646" name="Changes" comment="No guessing game">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ProblemSolving/P73NoGuessingUsingMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolving/P73NoGuessingUsingMath.java" afterDir="false" />
     </list>
@@ -267,22 +267,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
-    </task>
-    <task id="LOCAL-00179" summary="list convert into integer and then get their square and add them">
-      <option name="closed" value="true" />
-      <created>1738507651329</created>
-      <option name="number" value="00179" />
-      <option name="presentableId" value="LOCAL-00179" />
-      <option name="project" value="LOCAL" />
-      <updated>1738507651329</updated>
-    </task>
-    <task id="LOCAL-00180" summary="list convert into integer and then get their square and add them">
-      <option name="closed" value="true" />
-      <created>1738517131328</created>
-      <option name="number" value="00180" />
-      <option name="presentableId" value="LOCAL-00180" />
-      <option name="project" value="LOCAL" />
-      <updated>1738517131328</updated>
     </task>
     <task id="LOCAL-00181" summary="list convert into integer and then get their square and add them">
       <option name="closed" value="true" />
@@ -660,7 +644,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739729902661</updated>
     </task>
-    <option name="localTasksCounter" value="228" />
+    <task id="LOCAL-00228" summary="No guessing game">
+      <option name="closed" value="true" />
+      <created>1739764987328</created>
+      <option name="number" value="00228" />
+      <option name="presentableId" value="LOCAL-00228" />
+      <option name="project" value="LOCAL" />
+      <updated>1739764987328</updated>
+    </task>
+    <task id="LOCAL-00229" summary="No guessing game">
+      <option name="closed" value="true" />
+      <created>1739764994080</created>
+      <option name="number" value="00229" />
+      <option name="presentableId" value="LOCAL-00229" />
+      <option name="project" value="LOCAL" />
+      <updated>1739764994080</updated>
+    </task>
+    <option name="localTasksCounter" value="230" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -675,7 +675,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Old list : [10, 1, 1, 10, 2, 4, 5, 4, 5, 6, 78, 8]&#10;New List : [10, 1, 2, 4, 5, 6, 78, 8]" />
     <MESSAGE value="refactor" />
     <MESSAGE value="employee detail constructor and get seeter" />
     <MESSAGE value="sort employee detail using salary" />
@@ -700,7 +699,8 @@
     <MESSAGE value="final keyword" />
     <MESSAGE value="String Builder" />
     <MESSAGE value="String Builder using into an array" />
-    <option name="LAST_COMMIT_MESSAGE" value="String Builder using into an array" />
+    <MESSAGE value="No guessing game" />
+    <option name="LAST_COMMIT_MESSAGE" value="No guessing game" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
