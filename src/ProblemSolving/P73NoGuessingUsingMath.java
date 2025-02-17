@@ -21,6 +21,5 @@ public class P73NoGuessingUsingMath {
                 System.out.println("Great you Enter correct no...");
             }
         }while(a!=x);
-
     }
 }
