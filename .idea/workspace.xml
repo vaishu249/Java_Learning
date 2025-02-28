@@ -265,14 +265,6 @@
       <option name="presentableId" value="Default" />
       <updated>1730302276859</updated>
     </task>
-    <task id="LOCAL-00185" summary="maximum value in array">
-      <option name="closed" value="true" />
-      <created>1738736586526</created>
-      <option name="number" value="00185" />
-      <option name="presentableId" value="LOCAL-00185" />
-      <option name="project" value="LOCAL" />
-      <updated>1738736586526</updated>
-    </task>
     <task id="LOCAL-00186" summary="maximum value in array">
       <option name="closed" value="true" />
       <created>1738736591032</created>
@@ -657,7 +649,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740676405077</updated>
     </task>
-    <option name="localTasksCounter" value="234" />
+    <task id="LOCAL-00234" summary="No guessing game">
+      <option name="closed" value="true" />
+      <created>1740761467028</created>
+      <option name="number" value="00234" />
+      <option name="presentableId" value="LOCAL-00234" />
+      <option name="project" value="LOCAL" />
+      <updated>1740761467028</updated>
+    </task>
+    <option name="localTasksCounter" value="235" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
